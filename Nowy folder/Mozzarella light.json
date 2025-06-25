@@ -1,0 +1,179 @@
+{
+  "productName": "Mozzarella light",
+  "category": "Cheese",
+  "glycemicIndex": "0",
+  "glycemicLoad": "0",
+  "caffeine": "0 mg",
+  "salt": "0.65 g",
+  "water": "60 g",
+  "calories": "254 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "24.26 g",
+        "animalBased": "24.26 g",
+        "plantBased": "0 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "650 mg",
+            "isoleucine": "1300 mg",
+            "leucine": "2200 mg",
+            "lysine": "1900 mg",
+            "methionine": "600 mg",
+            "phenylalanine": "1100 mg",
+            "threonine": "1000 mg",
+            "tryptophan": "300 mg",
+            "valine": "1500 mg"
+          },
+          "nonEssential": {
+            "alanine": "800 mg",
+            "asparagine": "1800 mg",
+            "asparticAcid": "1800 mg",
+            "glutamicAcid": "4700 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "800 mg",
+            "cysteine": "200 mg",
+            "glutamine": "4700 mg",
+            "tyrosine": "1100 mg",
+            "glycine": "500 mg",
+            "proline": "2300 mg",
+            "serine": "1300 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "15.92 g",
+        "saturated": {
+          "total": "9.99 g",
+          "lauricAcid": "0.4 g",
+          "myristicAcid": "1.5 g",
+          "palmiticAcid": "4.5 g",
+          "stearicAcid": "2.3 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "4.16 g",
+            "omega9": {
+              "total": "3.9 g",
+              "oleicAcid": "3.8 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "0.43 g",
+            "omega3": {
+              "total": "0.15 g",
+              "ala": "0.15 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "0.28 g",
+              "linoleicAcid": "0.25 g",
+              "arachidonicAcid": "0.03 g"
+            }
+          }
+        },
+        "trans": "0.47 g",
+        "cholesterol": "50 mg"
+      },
+      "carbohydrates": {
+        "total": "2.22 g",
+        "simple": {
+          "total": "1.12 g",
+          "monosaccharides": {
+            "glucose": "0.06 g",
+            "fructose": "0.06 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "0 g",
+            "lactose": "1 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "1.1 g",
+          "starches": "0 g",
+          "fiber": {
+            "total": "0 g",
+            "soluble": "0 g",
+            "insoluble": "0 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "190 µg",
+          "retinol": "190 µg",
+          "betaCarotene": "0 µg"
+        },
+        "b1": "0.03 mg",
+        "b2": "0.28 mg",
+        "b3": {
+          "total": "0.1 mg",
+          "niacin": "0.1 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "15.4 mg",
+        "b5": "0.06 mg",
+        "b6": "0.06 mg",
+        "b7": "2.4 µg",
+        "b8": "0 mg",
+        "b9": "7 µg",
+        "b12": "2.28 µg",
+        "c": "0 mg",
+        "d": "0.4 µg",
+        "e": "0.19 mg",
+        "k": "2.3 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "0 mg",
+        "ca": "782 mg",
+        "cl": "535 mg",
+        "co": "0 µg",
+        "cr": "0 µg",
+        "cu": "0.02 mg",
+        "f": "0 µg",
+        "fe": "0.44 mg",
+        "i": "10 µg",
+        "k": "76 mg",
+        "li": "0 µg",
+        "mg": "20 mg",
+        "mn": "0.03 mg",
+        "mo": "0 µg",
+        "na": "619 mg",
+        "ni": "0 µg",
+        "p": "456 mg",
+        "rb": "0 µg",
+        "s": "0 mg",
+        "se": "14.5 µg",
+        "si": "0 mg",
+        "sr": "0 µg",
+        "v": "0 µg",
+        "zn": "2.92 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": true,
+    "isLactoseFree": false,
+    "isVegan": false,
+    "isKetogenic": true,
+    "isWholeFoods": false,
+    "isLowFodmap": false,
+    "isPaleoFriendly": false,
+    "isRaw": false
+  },
+  "allergens": [
+    "Mleko"
+  ],
+  "nutriScore": "B"
+}

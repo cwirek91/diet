@@ -1,0 +1,179 @@
+{
+  "productName": "Makaron pełnoziarnisty penne",
+  "category": "Pasta",
+  "glycemicIndex": "45",
+  "glycemicLoad": "22",
+  "caffeine": "0 mg",
+  "salt": "0.01 g",
+  "water": "9.5 g",
+  "calories": "340 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "13 g",
+        "animalBased": "0 g",
+        "plantBased": "13 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "280 mg",
+            "isoleucine": "430 mg",
+            "leucine": "760 mg",
+            "lysine": "320 mg",
+            "methionine": "180 mg",
+            "phenylalanine": "530 mg",
+            "threonine": "360 mg",
+            "tryptophan": "150 mg",
+            "valine": "510 mg"
+          },
+          "nonEssential": {
+            "alanine": "410 mg",
+            "asparagine": "650 mg",
+            "asparticAcid": "650 mg",
+            "glutamicAcid": "3500 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "520 mg",
+            "cysteine": "290 mg",
+            "glutamine": "3500 mg",
+            "tyrosine": "360 mg",
+            "glycine": "500 mg",
+            "proline": "1100 mg",
+            "serine": "550 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "2.5 g",
+        "saturated": {
+          "total": "0.4 g",
+          "lauricAcid": "0 g",
+          "myristicAcid": "0 g",
+          "palmiticAcid": "0.3 g",
+          "stearicAcid": "0.1 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "0.3 g",
+            "omega9": {
+              "total": "0.3 g",
+              "oleicAcid": "0.3 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "1 g",
+            "omega3": {
+              "total": "0.1 g",
+              "ala": "0.1 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "0.9 g",
+              "linoleicAcid": "0.9 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "0 mg"
+      },
+      "carbohydrates": {
+        "total": "68 g",
+        "simple": {
+          "total": "2.5 g",
+          "monosaccharides": {
+            "glucose": "1 g",
+            "fructose": "0.5 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "1 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "65.5 g",
+          "starches": "56.5 g",
+          "fiber": {
+            "total": "9 g",
+            "soluble": "2 g",
+            "insoluble": "7 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "0 µg",
+          "retinol": "0 µg",
+          "betaCarotene": "0 µg"
+        },
+        "b1": "0.2 mg",
+        "b2": "0.1 mg",
+        "b3": {
+          "total": "4 mg",
+          "niacin": "4 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "30 mg",
+        "b5": "0.5 mg",
+        "b6": "0.2 mg",
+        "b7": "6 µg",
+        "b8": "0 mg",
+        "b9": "25 µg",
+        "b12": "0 µg",
+        "c": "0 mg",
+        "d": "0 µg",
+        "e": "1 mg",
+        "k": "2 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "0 mg",
+        "ca": "30 mg",
+        "cl": "15 mg",
+        "co": "0 µg",
+        "cr": "10 µg",
+        "cu": "0.3 mg",
+        "f": "25 µg",
+        "fe": "3 mg",
+        "i": "0 µg",
+        "k": "250 mg",
+        "li": "1 µg",
+        "mg": "80 mg",
+        "mn": "2 mg",
+        "mo": "15 µg",
+        "na": "5 mg",
+        "ni": "30 µg",
+        "p": "270 mg",
+        "rb": "100 µg",
+        "s": "180 mg",
+        "se": "60 µg",
+        "si": "0 mg",
+        "sr": "15 µg",
+        "v": "5 µg",
+        "zn": "2 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": false,
+    "isLactoseFree": true,
+    "isVegan": true,
+    "isKetogenic": false,
+    "isWholeFoods": true,
+    "isLowFodmap": false,
+    "isPaleoFriendly": false,
+    "isRaw": false
+  },
+  "allergens": [
+    "Gluten (pszenica)"
+  ],
+  "nutriScore": "A"
+}

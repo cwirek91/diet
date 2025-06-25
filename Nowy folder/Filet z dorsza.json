@@ -1,0 +1,179 @@
+{
+  "productName": "Filet z dorsza",
+  "category": "Fish",
+  "glycemicIndex": "0",
+  "glycemicLoad": "0",
+  "caffeine": "0 mg",
+  "salt": "0.161 g",
+  "water": "81.22 g",
+  "calories": "82 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "17.81 g",
+        "animalBased": "17.81 g",
+        "plantBased": "0 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "467 mg",
+            "isoleucine": "911 mg",
+            "leucine": "1478 mg",
+            "lysine": "1613 mg",
+            "methionine": "534 mg",
+            "phenylalanine": "712 mg",
+            "threonine": "801 mg",
+            "tryptophan": "196 mg",
+            "valine": "945 mg"
+          },
+          "nonEssential": {
+            "alanine": "1089 mg",
+            "asparagine": "1978 mg",
+            "asparticAcid": "1978 mg",
+            "glutamicAcid": "2766 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "1067 mg",
+            "cysteine": "223 mg",
+            "glutamine": "2543 mg",
+            "tyrosine": "623 mg",
+            "glycine": "845 mg",
+            "proline": "667 mg",
+            "serine": "801 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "0.67 g",
+        "saturated": {
+          "total": "0.134 g",
+          "lauricAcid": "0 g",
+          "myristicAcid": "0.013 g",
+          "palmiticAcid": "0.089 g",
+          "stearicAcid": "0.024 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "0.087 g",
+            "omega9": {
+              "total": "0.058 g",
+              "oleicAcid": "0.058 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "0.247 g",
+            "omega3": {
+              "total": "0.204 g",
+              "ala": "0.004 g",
+              "epa": "0.071 g",
+              "dha": "0.131 g"
+            },
+            "omega6": {
+              "total": "0.013 g",
+              "linoleicAcid": "0.003 g",
+              "arachidonicAcid": "0.009 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "43 mg"
+      },
+      "carbohydrates": {
+        "total": "0 g",
+        "simple": {
+          "total": "0 g",
+          "monosaccharides": {
+            "glucose": "0 g",
+            "fructose": "0 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "0 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "0 g",
+          "starches": "0 g",
+          "fiber": {
+            "total": "0 g",
+            "soluble": "0 g",
+            "insoluble": "0 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "12 µg",
+          "retinol": "12 µg",
+          "betaCarotene": "0 µg"
+        },
+        "b1": "0.089 mg",
+        "b2": "0.065 mg",
+        "b3": {
+          "total": "2.064 mg",
+          "niacin": "2.064 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "60.3 mg",
+        "b5": "0.185 mg",
+        "b6": "0.239 mg",
+        "b7": "2.3 µg",
+        "b8": "0 mg",
+        "b9": "7 µg",
+        "b12": "0.91 µg",
+        "c": "1 mg",
+        "d": "0.9 µg",
+        "e": "0.57 mg",
+        "k": "0.1 µg"
+      },
+      "minerals": {
+        "as": "5.4 µg",
+        "b": "0.1 mg",
+        "ca": "16 mg",
+        "cl": "210 mg",
+        "co": "0.9 µg",
+        "cr": "1.6 µg",
+        "cu": "0.038 mg",
+        "f": "50 µg",
+        "fe": "0.38 mg",
+        "i": "110 µg",
+        "k": "413 mg",
+        "li": "2 µg",
+        "mg": "32 mg",
+        "mn": "0.015 mg",
+        "mo": "0.9 µg",
+        "na": "54 mg",
+        "ni": "1.5 µg",
+        "p": "203 mg",
+        "rb": "130 µg",
+        "s": "210 mg",
+        "se": "33.1 µg",
+        "si": "0.4 mg",
+        "sr": "0.9 µg",
+        "v": "4.3 µg",
+        "zn": "0.45 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": false,
+    "isGlutenFree": true,
+    "isLactoseFree": true,
+    "isVegan": false,
+    "isKetogenic": true,
+    "isWholeFoods": true,
+    "isLowFodmap": true,
+    "isPaleoFriendly": true,
+    "isRaw": false
+  },
+  "allergens": [
+    "Ryba"
+  ],
+  "nutriScore": "A"
+}

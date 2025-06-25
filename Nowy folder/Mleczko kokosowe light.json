@@ -1,0 +1,179 @@
+{
+  "productName": "Mleczko kokosowe light",
+  "category": "Plant-based milk",
+  "glycemicIndex": "30",
+  "glycemicLoad": "1",
+  "caffeine": "0 mg",
+  "salt": "0.03 g",
+  "water": "83.4 g",
+  "calories": "125 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "1.1 g",
+        "animalBased": "0 g",
+        "plantBased": "1.1 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "14 mg",
+            "isoleucine": "22 mg",
+            "leucine": "39 mg",
+            "lysine": "33 mg",
+            "methionine": "11 mg",
+            "phenylalanine": "28 mg",
+            "threonine": "22 mg",
+            "tryptophan": "6 mg",
+            "valine": "33 mg"
+          },
+          "nonEssential": {
+            "alanine": "28 mg",
+            "asparagine": "55 mg",
+            "asparticAcid": "55 mg",
+            "glutamicAcid": "121 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "88 mg",
+            "cysteine": "11 mg",
+            "glutamine": "121 mg",
+            "tyrosine": "17 mg",
+            "glycine": "25 mg",
+            "proline": "22 mg",
+            "serine": "28 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "12.1 g",
+        "saturated": {
+          "total": "10.7 g",
+          "lauricAcid": "5.7 g",
+          "myristicAcid": "2.3 g",
+          "palmiticAcid": "1.2 g",
+          "stearicAcid": "0.4 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "0.6 g",
+            "omega9": {
+              "total": "0.6 g",
+              "oleicAcid": "0.6 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "0.2 g",
+            "omega3": {
+              "total": "0 g",
+              "ala": "0 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "0.2 g",
+              "linoleicAcid": "0.2 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "0 mg"
+      },
+      "carbohydrates": {
+        "total": "2.8 g",
+        "simple": {
+          "total": "1.7 g",
+          "monosaccharides": {
+            "glucose": "0.8 g",
+            "fructose": "0.8 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "0.1 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "1.1 g",
+          "starches": "0 g",
+          "fiber": {
+            "total": "1.1 g",
+            "soluble": "0.3 g",
+            "insoluble": "0.8 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "0 µg",
+          "retinol": "0 µg",
+          "betaCarotene": "0 µg"
+        },
+        "b1": "0.02 mg",
+        "b2": "0 mg",
+        "b3": {
+          "total": "0.38 mg",
+          "niacin": "0.38 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "1.5 mg",
+        "b5": "0.11 mg",
+        "b6": "0.02 mg",
+        "b7": "0.6 µg",
+        "b8": "0 mg",
+        "b9": "8 µg",
+        "b12": "0 µg",
+        "c": "0.7 mg",
+        "d": "0 µg",
+        "e": "0.12 mg",
+        "k": "0.1 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "0 mg",
+        "ca": "8 mg",
+        "cl": "0 mg",
+        "co": "0 µg",
+        "cr": "0 µg",
+        "cu": "0.13 mg",
+        "f": "0 µg",
+        "fe": "0.82 mg",
+        "i": "0 µg",
+        "k": "132 mg",
+        "li": "0 µg",
+        "mg": "19 mg",
+        "mn": "0.75 mg",
+        "mo": "0 µg",
+        "na": "8 mg",
+        "ni": "0 µg",
+        "p": "50 mg",
+        "rb": "0 µg",
+        "s": "0 mg",
+        "se": "2.2 µg",
+        "si": "0 mg",
+        "sr": "0 µg",
+        "v": "0 µg",
+        "zn": "0.34 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": true,
+    "isLactoseFree": true,
+    "isVegan": true,
+    "isKetogenic": true,
+    "isWholeFoods": true,
+    "isLowFodmap": true,
+    "isPaleoFriendly": true,
+    "isRaw": false
+  },
+  "allergens": [
+    "Orzechy kokosowe"
+  ],
+  "nutriScore": "B"
+}

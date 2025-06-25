@@ -1,0 +1,179 @@
+{
+  "productName": "Masło",
+  "category": "Dairy",
+  "glycemicIndex": "0",
+  "glycemicLoad": "0",
+  "caffeine": "0 mg",
+  "salt": "0.01 g",
+  "water": "15.9 g",
+  "calories": "717 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "0.85 g",
+        "animalBased": "0.85 g",
+        "plantBased": "0 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "25 mg",
+            "isoleucine": "49 mg",
+            "leucine": "83 mg",
+            "lysine": "68 mg",
+            "methionine": "21 mg",
+            "phenylalanine": "41 mg",
+            "threonine": "39 mg",
+            "tryptophan": "12 mg",
+            "valine": "57 mg"
+          },
+          "nonEssential": {
+            "alanine": "27 mg",
+            "asparagine": "65 mg",
+            "asparticAcid": "65 mg",
+            "glutamicAcid": "191 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "31 mg",
+            "cysteine": "8 mg",
+            "glutamine": "191 mg",
+            "tyrosine": "41 mg",
+            "glycine": "18 mg",
+            "proline": "84 mg",
+            "serine": "49 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "81.1 g",
+        "saturated": {
+          "total": "51.4 g",
+          "lauricAcid": "2.1 g",
+          "myristicAcid": "8.7 g",
+          "palmiticAcid": "24.5 g",
+          "stearicAcid": "10.1 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "21.0 g",
+            "omega9": {
+              "total": "19.7 g",
+              "oleicAcid": "19.7 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "3.0 g",
+            "omega3": {
+              "total": "0.3 g",
+              "ala": "0.3 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "2.7 g",
+              "linoleicAcid": "2.5 g",
+              "arachidonicAcid": "0.2 g"
+            }
+          }
+        },
+        "trans": "3.3 g",
+        "cholesterol": "215 mg"
+      },
+      "carbohydrates": {
+        "total": "0.06 g",
+        "simple": {
+          "total": "0.06 g",
+          "monosaccharides": {
+            "glucose": "0.02 g",
+            "fructose": "0 g",
+            "galactose": "0.01 g"
+          },
+          "disaccharides": {
+            "sucrose": "0 g",
+            "lactose": "0.03 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "0 g",
+          "starches": "0 g",
+          "fiber": {
+            "total": "0 g",
+            "soluble": "0 g",
+            "insoluble": "0 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "684 µg",
+          "retinol": "684 µg",
+          "betaCarotene": "0 µg"
+        },
+        "b1": "0.005 mg",
+        "b2": "0.034 mg",
+        "b3": {
+          "total": "0.042 mg",
+          "niacin": "0.042 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "18.8 mg",
+        "b5": "0.110 mg",
+        "b6": "0.003 mg",
+        "b7": "0.2 µg",
+        "b8": "0 mg",
+        "b9": "3 µg",
+        "b12": "0.17 µg",
+        "c": "0 mg",
+        "d": "1.5 µg",
+        "e": "2.32 mg",
+        "k": "7.0 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "0 mg",
+        "ca": "24 mg",
+        "cl": "0 mg",
+        "co": "0 µg",
+        "cr": "0 µg",
+        "cu": "0.016 mg",
+        "f": "0 µg",
+        "fe": "0.02 mg",
+        "i": "37 µg",
+        "k": "24 mg",
+        "li": "0 µg",
+        "mg": "2 mg",
+        "mn": "0 mg",
+        "mo": "0 µg",
+        "na": "11 mg",
+        "ni": "0 µg",
+        "p": "24 mg",
+        "rb": "0 µg",
+        "s": "0 mg",
+        "se": "1 µg",
+        "si": "0 mg",
+        "sr": "0 µg",
+        "v": "0 µg",
+        "zn": "0.09 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": true,
+    "isLactoseFree": false,
+    "isVegan": false,
+    "isKetogenic": true,
+    "isWholeFoods": true,
+    "isLowFodmap": true,
+    "isPaleoFriendly": false,
+    "isRaw": false
+  },
+  "allergens": [
+    "Mleko"
+  ],
+  "nutriScore": "C"
+}

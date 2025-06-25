@@ -1,0 +1,179 @@
+{
+  "productName": "Łosoś",
+  "category": "Fish",
+  "glycemicIndex": "0",
+  "glycemicLoad": "0",
+  "caffeine": "0 mg",
+  "salt": "0.147 g",
+  "water": "68.5 g",
+  "calories": "208 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "20.42 g",
+        "animalBased": "20.42 g",
+        "plantBased": "0 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "599 mg",
+            "isoleucine": "941 mg",
+            "leucine": "1660 mg",
+            "lysine": "1875 mg",
+            "methionine": "604 mg",
+            "phenylalanine": "798 mg",
+            "threonine": "895 mg",
+            "tryptophan": "229 mg",
+            "valine": "1052 mg"
+          },
+          "nonEssential": {
+            "alanine": "1235 mg",
+            "asparagine": "2090 mg",
+            "asparticAcid": "2090 mg",
+            "glutamicAcid": "3049 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "1221 mg",
+            "cysteine": "219 mg",
+            "glutamine": "0 mg",
+            "tyrosine": "690 mg",
+            "glycine": "980 mg",
+            "proline": "723 mg",
+            "serine": "833 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "13.42 g",
+        "saturated": {
+          "total": "3.05 g",
+          "lauricAcid": "0 g",
+          "myristicAcid": "0.49 g",
+          "palmiticAcid": "1.93 g",
+          "stearicAcid": "0.36 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "3.77 g",
+            "omega9": {
+              "total": "2.99 g",
+              "oleicAcid": "2.99 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "3.89 g",
+            "omega3": {
+              "total": "2.54 g",
+              "ala": "0 g",
+              "epa": "0.86 g",
+              "dha": "1.43 g"
+            },
+            "omega6": {
+              "total": "0.89 g",
+              "linoleicAcid": "0.75 g",
+              "arachidonicAcid": "0.14 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "55 mg"
+      },
+      "carbohydrates": {
+        "total": "0 g",
+        "simple": {
+          "total": "0 g",
+          "monosaccharides": {
+            "glucose": "0 g",
+            "fructose": "0 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "0 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "0 g",
+          "starches": "0 g",
+          "fiber": {
+            "total": "0 g",
+            "soluble": "0 g",
+            "insoluble": "0 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "15 µg",
+          "retinol": "15 µg",
+          "betaCarotene": "0 µg"
+        },
+        "b1": "0.208 mg",
+        "b2": "0.158 mg",
+        "b3": {
+          "total": "7.86 mg",
+          "niacin": "7.86 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "94.6 mg",
+        "b5": "1.664 mg",
+        "b6": "0.643 mg",
+        "b7": "5.9 µg",
+        "b8": "0 mg",
+        "b9": "25 µg",
+        "b12": "3.18 µg",
+        "c": "0 mg",
+        "d": "11 µg",
+        "e": "1.13 mg",
+        "k": "0.5 µg"
+      },
+      "minerals": {
+        "as": "27.5 µg",
+        "b": "0 mg",
+        "ca": "9 mg",
+        "cl": "0 mg",
+        "co": "0 µg",
+        "cr": "0 µg",
+        "cu": "0.051 mg",
+        "f": "0 µg",
+        "fe": "0.34 mg",
+        "i": "35 µg",
+        "k": "363 mg",
+        "li": "0 µg",
+        "mg": "27 mg",
+        "mn": "0.012 mg",
+        "mo": "0 µg",
+        "na": "59 mg",
+        "ni": "0 µg",
+        "p": "240 mg",
+        "rb": "0 µg",
+        "s": "204 mg",
+        "se": "36.5 µg",
+        "si": "0 mg",
+        "sr": "0 µg",
+        "v": "0 µg",
+        "zn": "0.36 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": false,
+    "isGlutenFree": true,
+    "isLactoseFree": true,
+    "isVegan": false,
+    "isKetogenic": true,
+    "isWholeFoods": true,
+    "isLowFodmap": true,
+    "isPaleoFriendly": true,
+    "isRaw": true
+  },
+  "allergens": [
+    "Ryby"
+  ],
+  "nutriScore": "B"
+}

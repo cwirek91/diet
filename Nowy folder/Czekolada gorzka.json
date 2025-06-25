@@ -1,0 +1,179 @@
+{
+  "productName": "Czekolada gorzka",
+  "category": "Confectionery",
+  "glycemicIndex": "23",
+  "glycemicLoad": "3",
+  "caffeine": "22.4 mg",
+  "salt": "0.024 g",
+  "water": "1.37 g",
+  "calories": "598 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "7.79 g",
+        "animalBased": "0 g",
+        "plantBased": "7.79 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "186 mg",
+            "isoleucine": "313 mg",
+            "leucine": "570 mg",
+            "lysine": "439 mg",
+            "methionine": "140 mg",
+            "phenylalanine": "411 mg",
+            "threonine": "335 mg",
+            "tryptophan": "93 mg",
+            "valine": "452 mg"
+          },
+          "nonEssential": {
+            "alanine": "405 mg",
+            "asparagine": "755 mg",
+            "asparticAcid": "755 mg",
+            "glutamicAcid": "1338 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "490 mg",
+            "cysteine": "130 mg",
+            "glutamine": "1238 mg",
+            "tyrosine": "296 mg",
+            "glycine": "386 mg",
+            "proline": "485 mg",
+            "serine": "427 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "42.63 g",
+        "saturated": {
+          "total": "24.49 g",
+          "lauricAcid": "0.03 g",
+          "myristicAcid": "0.09 g",
+          "palmiticAcid": "11.84 g",
+          "stearicAcid": "11.84 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "13.11 g",
+            "omega9": {
+              "total": "13.11 g",
+              "oleicAcid": "13.11 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "1.26 g",
+            "omega3": {
+              "total": "0.12 g",
+              "ala": "0.12 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "1.14 g",
+              "linoleicAcid": "1.14 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "0.03 g",
+        "cholesterol": "3 mg"
+      },
+      "carbohydrates": {
+        "total": "45.9 g",
+        "simple": {
+          "total": "24 g",
+          "monosaccharides": {
+            "glucose": "12 g",
+            "fructose": "12 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "0 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "21.9 g",
+          "starches": "8.9 g",
+          "fiber": {
+            "total": "11 g",
+            "soluble": "2.8 g",
+            "insoluble": "8.2 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "7 µg",
+          "retinol": "0 µg",
+          "betaCarotene": "84 µg"
+        },
+        "b1": "0.034 mg",
+        "b2": "0.078 mg",
+        "b3": {
+          "total": "1.09 mg",
+          "niacin": "1.09 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "13.9 mg",
+        "b5": "0.439 mg",
+        "b6": "0.038 mg",
+        "b7": "1.9 µg",
+        "b8": "0 mg",
+        "b9": "29 µg",
+        "b12": "0.18 µg",
+        "c": "0 mg",
+        "d": "0 µg",
+        "e": "0.59 mg",
+        "k": "7.3 µg"
+      },
+      "minerals": {
+        "as": "1 µg",
+        "b": "1 mg",
+        "ca": "73 mg",
+        "cl": "40 mg",
+        "co": "3.5 µg",
+        "cr": "20 µg",
+        "cu": "1.766 mg",
+        "f": "9 µg",
+        "fe": "11.9 mg",
+        "i": "2 µg",
+        "k": "715 mg",
+        "li": "2 µg",
+        "mg": "228 mg",
+        "mn": "1.948 mg",
+        "mo": "20 µg",
+        "na": "24 mg",
+        "ni": "2000 µg",
+        "p": "308 mg",
+        "rb": "1500 µg",
+        "s": "200 mg",
+        "se": "6.8 µg",
+        "si": "20 mg",
+        "sr": "750 µg",
+        "v": "10 µg",
+        "zn": "3.31 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": true,
+    "isLactoseFree": true,
+    "isVegan": true,
+    "isKetogenic": false,
+    "isWholeFoods": false,
+    "isLowFodmap": false,
+    "isPaleoFriendly": false,
+    "isRaw": false
+  },
+  "allergens": [
+    "Może zawierać śladowe ilości mleka, orzechów i soi"
+  ],
+  "nutriScore": "B"
+}

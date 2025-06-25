@@ -1,0 +1,177 @@
+{
+  "productName": "Kapusta kiszona",
+  "category": "Fermented Vegetables",
+  "glycemicIndex": "15",
+  "glycemicLoad": "1",
+  "caffeine": "0 mg",
+  "salt": "1.250 g",
+  "water": "92.5 g",
+  "calories": "19 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "0.91 g",
+        "animalBased": "0 g",
+        "plantBased": "0.91 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "13 mg",
+            "isoleucine": "26 mg",
+            "leucine": "34 mg",
+            "lysine": "32 mg",
+            "methionine": "9 mg",
+            "phenylalanine": "25 mg",
+            "threonine": "25 mg",
+            "tryptophan": "9 mg",
+            "valine": "32 mg"
+          },
+          "nonEssential": {
+            "alanine": "29 mg",
+            "asparagine": "58 mg",
+            "asparticAcid": "58 mg",
+            "glutamicAcid": "187 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "36 mg",
+            "cysteine": "6 mg",
+            "glutamine": "152 mg",
+            "tyrosine": "14 mg",
+            "glycine": "27 mg",
+            "proline": "25 mg",
+            "serine": "29 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "0.14 g",
+        "saturated": {
+          "total": "0.026 g",
+          "lauricAcid": "0 g",
+          "myristicAcid": "0 g",
+          "palmiticAcid": "0.022 g",
+          "stearicAcid": "0.004 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "0.009 g",
+            "omega9": {
+              "total": "0.009 g",
+              "oleicAcid": "0.009 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "0.055 g",
+            "omega3": {
+              "total": "0.024 g",
+              "ala": "0.024 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "0.031 g",
+              "linoleicAcid": "0.031 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "0 mg"
+      },
+      "carbohydrates": {
+        "total": "4.28 g",
+        "simple": {
+          "total": "1.78 g",
+          "monosaccharides": {
+            "glucose": "0.89 g",
+            "fructose": "0.89 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "0 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "2.5 g",
+          "starches": "0 g",
+          "fiber": {
+            "total": "2.5 g",
+            "soluble": "0.8 g",
+            "insoluble": "1.7 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "2 µg",
+          "retinol": "0 µg",
+          "betaCarotene": "24 µg"
+        },
+        "b1": "0.021 mg",
+        "b2": "0.021 mg",
+        "b3": {
+          "total": "0.123 mg",
+          "niacin": "0.123 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "11.7 mg",
+        "b5": "0.165 mg",
+        "b6": "0.149 mg",
+        "b7": "0.1 µg",
+        "b8": "0 mg",
+        "b9": "24 µg",
+        "b12": "0 µg",
+        "c": "23 mg",
+        "d": "0 µg",
+        "e": "0.17 mg",
+        "k": "16.4 µg"
+      },
+      "minerals": {
+        "as": "0.1 µg",
+        "b": "0.13 mg",
+        "ca": "30 mg",
+        "cl": "760 mg",
+        "co": "0.2 µg",
+        "cr": "2.9 µg",
+        "cu": "0.051 mg",
+        "f": "1 µg",
+        "fe": "1.47 mg",
+        "i": "1.6 µg",
+        "k": "170 mg",
+        "li": "0.9 µg",
+        "mg": "13 mg",
+        "mn": "0.14 mg",
+        "mo": "0.6 µg",
+        "na": "661 mg",
+        "ni": "0.7 µg",
+        "p": "20 mg",
+        "rb": "170 µg",
+        "s": "24 mg",
+        "se": "0.6 µg",
+        "si": "1.4 mg",
+        "sr": "31 µg",
+        "v": "0.7 µg",
+        "zn": "0.22 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": true,
+    "isLactoseFree": true,
+    "isVegan": true,
+    "isKetogenic": true,
+    "isWholeFoods": true,
+    "isLowFodmap": false,
+    "isPaleoFriendly": true,
+    "isRaw": false
+  },
+  "allergens": [],
+  "nutriScore": "B"
+}

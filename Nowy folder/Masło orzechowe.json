@@ -1,0 +1,179 @@
+{
+  "productName": "Masło orzechowe",
+  "category": "Nut butter",
+  "glycemicIndex": "14",
+  "glycemicLoad": "1",
+  "caffeine": "0 mg",
+  "salt": "0.4 g",
+  "water": "1.6 g",
+  "calories": "588 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "25 g",
+        "animalBased": "0 g",
+        "plantBased": "25 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "648 mg",
+            "isoleucine": "909 mg",
+            "leucine": "1672 mg",
+            "lysine": "902 mg",
+            "methionine": "285 mg",
+            "phenylalanine": "1337 mg",
+            "threonine": "848 mg",
+            "tryptophan": "237 mg",
+            "valine": "1067 mg"
+          },
+          "nonEssential": {
+            "alanine": "1033 mg",
+            "asparagine": "3060 mg",
+            "asparticAcid": "3060 mg",
+            "glutamicAcid": "5243 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "3001 mg",
+            "cysteine": "323 mg",
+            "glutamine": "5243 mg",
+            "tyrosine": "1020 mg",
+            "glycine": "1477 mg",
+            "proline": "1107 mg",
+            "serine": "1236 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "50 g",
+        "saturated": {
+          "total": "10 g",
+          "lauricAcid": "0 g",
+          "myristicAcid": "0.1 g",
+          "palmiticAcid": "5.3 g",
+          "stearicAcid": "2.2 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "24 g",
+            "omega9": {
+              "total": "23.8 g",
+              "oleicAcid": "23.8 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "16 g",
+            "omega3": {
+              "total": "0 g",
+              "ala": "0 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "16 g",
+              "linoleicAcid": "16 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "0 mg"
+      },
+      "carbohydrates": {
+        "total": "20 g",
+        "simple": {
+          "total": "6 g",
+          "monosaccharides": {
+            "glucose": "2 g",
+            "fructose": "1 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "3 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "14 g",
+          "starches": "6 g",
+          "fiber": {
+            "total": "8 g",
+            "soluble": "2 g",
+            "insoluble": "6 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "0 µg",
+          "retinol": "0 µg",
+          "betaCarotene": "0 µg"
+        },
+        "b1": "0.15 mg",
+        "b2": "0.19 mg",
+        "b3": {
+          "total": "13.5 mg",
+          "niacin": "13.5 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "0 mg",
+        "b5": "1.7 mg",
+        "b6": "0.46 mg",
+        "b7": "0 µg",
+        "b8": "0 mg",
+        "b9": "87 µg",
+        "b12": "0 µg",
+        "c": "0 mg",
+        "d": "0 µg",
+        "e": "9 mg",
+        "k": "0.3 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "0 mg",
+        "ca": "49 mg",
+        "cl": "0 mg",
+        "co": "0 µg",
+        "cr": "0 µg",
+        "cu": "0.4 mg",
+        "f": "0 µg",
+        "fe": "1.9 mg",
+        "i": "0 µg",
+        "k": "745 mg",
+        "li": "0 µg",
+        "mg": "168 mg",
+        "mn": "1.9 mg",
+        "mo": "0 µg",
+        "na": "400 mg",
+        "ni": "0 µg",
+        "p": "335 mg",
+        "rb": "0 µg",
+        "s": "0 mg",
+        "se": "9.2 µg",
+        "si": "0 mg",
+        "sr": "0 µg",
+        "v": "0 µg",
+        "zn": "3.3 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": true,
+    "isLactoseFree": true,
+    "isVegan": true,
+    "isKetogenic": false,
+    "isWholeFoods": true,
+    "isLowFodmap": true,
+    "isPaleoFriendly": true,
+    "isRaw": false
+  },
+  "allergens": [
+    "Orzechy ziemne"
+  ],
+  "nutriScore": "B"
+}

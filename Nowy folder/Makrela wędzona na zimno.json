@@ -1,0 +1,179 @@
+{
+  "productName": "Makrela wędzona na zimno",
+  "category": "Fish",
+  "glycemicIndex": "0",
+  "glycemicLoad": "0",
+  "caffeine": "0 mg",
+  "salt": "3 g",
+  "water": "65 g",
+  "calories": "230 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "21 g",
+        "animalBased": "21 g",
+        "plantBased": "0 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "600 mg",
+            "isoleucine": "950 mg",
+            "leucine": "1650 mg",
+            "lysine": "1900 mg",
+            "methionine": "600 mg",
+            "phenylalanine": "820 mg",
+            "threonine": "900 mg",
+            "tryptophan": "230 mg",
+            "valine": "1080 mg"
+          },
+          "nonEssential": {
+            "alanine": "1200 mg",
+            "asparagine": "2000 mg",
+            "asparticAcid": "2000 mg",
+            "glutamicAcid": "3000 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "1250 mg",
+            "cysteine": "260 mg",
+            "glutamine": "3000 mg",
+            "tyrosine": "690 mg",
+            "glycine": "1000 mg",
+            "proline": "730 mg",
+            "serine": "820 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "16 g",
+        "saturated": {
+          "total": "3.1 g",
+          "lauricAcid": "0 g",
+          "myristicAcid": "0.5 g",
+          "palmiticAcid": "1.7 g",
+          "stearicAcid": "0.4 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "6.7 g",
+            "omega9": {
+              "total": "6.4 g",
+              "oleicAcid": "6.1 g",
+              "erucicAcid": "0.1 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "4.4 g",
+            "omega3": {
+              "total": "3 g",
+              "ala": "0.2 g",
+              "epa": "1 g",
+              "dha": "1.5 g"
+            },
+            "omega6": {
+              "total": "1.4 g",
+              "linoleicAcid": "1.1 g",
+              "arachidonicAcid": "0.2 g"
+            }
+          }
+        },
+        "trans": "0.1 g",
+        "cholesterol": "90 mg"
+      },
+      "carbohydrates": {
+        "total": "0 g",
+        "simple": {
+          "total": "0 g",
+          "monosaccharides": {
+            "glucose": "0 g",
+            "fructose": "0 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "0 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "0 g",
+          "starches": "0 g",
+          "fiber": {
+            "total": "0 g",
+            "soluble": "0 g",
+            "insoluble": "0 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "75 µg",
+          "retinol": "75 µg",
+          "betaCarotene": "0 µg"
+        },
+        "b1": "0.18 mg",
+        "b2": "0.35 mg",
+        "b3": {
+          "total": "7.5 mg",
+          "niacin": "7.5 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "60 mg",
+        "b5": "1 mg",
+        "b6": "0.55 mg",
+        "b7": "3.5 µg",
+        "b8": "0 mg",
+        "b9": "13 µg",
+        "b12": "14 µg",
+        "c": "0 mg",
+        "d": "7 µg",
+        "e": "1.8 mg",
+        "k": "4.5 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "0 mg",
+        "ca": "18 mg",
+        "cl": "600 mg",
+        "co": "0 µg",
+        "cr": "1.8 µg",
+        "cu": "0.09 mg",
+        "f": "28 µg",
+        "fe": "1.4 mg",
+        "i": "40 µg",
+        "k": "380 mg",
+        "li": "1.8 µg",
+        "mg": "55 mg",
+        "mn": "0.04 mg",
+        "mo": "4.5 µg",
+        "na": "1200 mg",
+        "ni": "4.5 µg",
+        "p": "260 mg",
+        "rb": "380 µg",
+        "s": "230 mg",
+        "se": "45 µg",
+        "si": "0 mg",
+        "sr": "0.9 µg",
+        "v": "0 µg",
+        "zn": "0.7 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": false,
+    "isGlutenFree": true,
+    "isLactoseFree": true,
+    "isVegan": false,
+    "isKetogenic": true,
+    "isWholeFoods": true,
+    "isLowFodmap": true,
+    "isPaleoFriendly": true,
+    "isRaw": false
+  },
+  "allergens": [
+    "Ryba"
+  ],
+  "nutriScore": "C"
+}

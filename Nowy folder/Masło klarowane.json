@@ -1,0 +1,179 @@
+{
+  "productName": "Masło klarowane",
+  "category": "Dairy",
+  "glycemicIndex": "0",
+  "glycemicLoad": "0",
+  "caffeine": "0 mg",
+  "salt": "0 g",
+  "water": "0.1 g",
+  "calories": "899 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "0 g",
+        "animalBased": "0 g",
+        "plantBased": "0 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "0 mg",
+            "isoleucine": "0 mg",
+            "leucine": "0 mg",
+            "lysine": "0 mg",
+            "methionine": "0 mg",
+            "phenylalanine": "0 mg",
+            "threonine": "0 mg",
+            "tryptophan": "0 mg",
+            "valine": "0 mg"
+          },
+          "nonEssential": {
+            "alanine": "0 mg",
+            "asparagine": "0 mg",
+            "asparticAcid": "0 mg",
+            "glutamicAcid": "0 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "0 mg",
+            "cysteine": "0 mg",
+            "glutamine": "0 mg",
+            "tyrosine": "0 mg",
+            "glycine": "0 mg",
+            "proline": "0 mg",
+            "serine": "0 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "99.9 g",
+        "saturated": {
+          "total": "61.9 g",
+          "lauricAcid": "2.5 g",
+          "myristicAcid": "10.5 g",
+          "palmiticAcid": "30.5 g",
+          "stearicAcid": "14.5 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "29.8 g",
+            "omega9": {
+              "total": "24.5 g",
+              "oleicAcid": "24.5 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "3.7 g",
+            "omega3": {
+              "total": "0.8 g",
+              "ala": "0.8 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "2.9 g",
+              "linoleicAcid": "2.9 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "4.5 g",
+        "cholesterol": "256 mg"
+      },
+      "carbohydrates": {
+        "total": "0 g",
+        "simple": {
+          "total": "0 g",
+          "monosaccharides": {
+            "glucose": "0 g",
+            "fructose": "0 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "0 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "0 g",
+          "starches": "0 g",
+          "fiber": {
+            "total": "0 g",
+            "soluble": "0 g",
+            "insoluble": "0 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "827 µg",
+          "retinol": "827 µg",
+          "betaCarotene": "0 µg"
+        },
+        "b1": "0 mg",
+        "b2": "0 mg",
+        "b3": {
+          "total": "0 mg",
+          "niacin": "0 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "0 mg",
+        "b5": "0 mg",
+        "b6": "0 mg",
+        "b7": "0 µg",
+        "b8": "0 mg",
+        "b9": "0 µg",
+        "b12": "0 µg",
+        "c": "0 mg",
+        "d": "0.5 µg",
+        "e": "2.8 mg",
+        "k": "8.6 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "0 mg",
+        "ca": "4 mg",
+        "cl": "0 mg",
+        "co": "0 µg",
+        "cr": "0 µg",
+        "cu": "0 mg",
+        "f": "0 µg",
+        "fe": "0 mg",
+        "i": "0 µg",
+        "k": "0 mg",
+        "li": "0 µg",
+        "mg": "0 mg",
+        "mn": "0 mg",
+        "mo": "0 µg",
+        "na": "0 mg",
+        "ni": "0 µg",
+        "p": "0 mg",
+        "rb": "0 µg",
+        "s": "0 mg",
+        "se": "1 µg",
+        "si": "0 mg",
+        "sr": "0 µg",
+        "v": "0 µg",
+        "zn": "0 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": true,
+    "isLactoseFree": false,
+    "isVegan": false,
+    "isKetogenic": true,
+    "isWholeFoods": false,
+    "isLowFodmap": true,
+    "isPaleoFriendly": true,
+    "isRaw": false
+  },
+  "allergens": [
+    "Mleko"
+  ],
+  "nutriScore": "D"
+}

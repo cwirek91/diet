@@ -1,0 +1,179 @@
+{
+  "productName": "Hummus",
+  "category": "Dips and Spreads",
+  "glycemicIndex": "6",
+  "glycemicLoad": "0.6",
+  "caffeine": "0 mg",
+  "salt": "0.379 g",
+  "water": "71.69 g",
+  "calories": "166 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "7.9 g",
+        "animalBased": "0 g",
+        "plantBased": "7.9 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "170 mg",
+            "isoleucine": "298 mg",
+            "leucine": "545 mg",
+            "lysine": "368 mg",
+            "methionine": "93 mg",
+            "phenylalanine": "375 mg",
+            "threonine": "245 mg",
+            "tryptophan": "86 mg",
+            "valine": "342 mg"
+          },
+          "nonEssential": {
+            "alanine": "291 mg",
+            "asparagine": "0 mg",
+            "asparticAcid": "826 mg",
+            "glutamicAcid": "1370 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "762 mg",
+            "cysteine": "86 mg",
+            "glutamine": "0 mg",
+            "tyrosine": "215 mg",
+            "glycine": "287 mg",
+            "proline": "301 mg",
+            "serine": "364 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "9.6 g",
+        "saturated": {
+          "total": "1.4 g",
+          "lauricAcid": "0 g",
+          "myristicAcid": "0 g",
+          "palmiticAcid": "0.9 g",
+          "stearicAcid": "0.3 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "4.2 g",
+            "omega9": {
+              "total": "4.1 g",
+              "oleicAcid": "4.1 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "3.2 g",
+            "omega3": {
+              "total": "0.1 g",
+              "ala": "0.1 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "3.1 g",
+              "linoleicAcid": "3.1 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "0 mg"
+      },
+      "carbohydrates": {
+        "total": "14.3 g",
+        "simple": {
+          "total": "0.8 g",
+          "monosaccharides": {
+            "glucose": "0.3 g",
+            "fructose": "0.3 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "0.2 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "13.5 g",
+          "starches": "9.6 g",
+          "fiber": {
+            "total": "4 g",
+            "soluble": "1 g",
+            "insoluble": "3 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "3 µg",
+          "retinol": "0 µg",
+          "betaCarotene": "36 µg"
+        },
+        "b1": "0.15 mg",
+        "b2": "0.11 mg",
+        "b3": {
+          "total": "0.9 mg",
+          "niacin": "0.9 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "34.6 mg",
+        "b5": "0.25 mg",
+        "b6": "0.15 mg",
+        "b7": "0 µg",
+        "b8": "0 mg",
+        "b9": "61 µg",
+        "b12": "0 µg",
+        "c": "0 mg",
+        "d": "0 µg",
+        "e": "0.75 mg",
+        "k": "5.9 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "0 mg",
+        "ca": "49 mg",
+        "cl": "0 mg",
+        "co": "0 µg",
+        "cr": "0 µg",
+        "cu": "0.38 mg",
+        "f": "0 µg",
+        "fe": "2.4 mg",
+        "i": "0 µg",
+        "k": "228 mg",
+        "li": "0 µg",
+        "mg": "71 mg",
+        "mn": "0.88 mg",
+        "mo": "0 µg",
+        "na": "379 mg",
+        "ni": "0 µg",
+        "p": "176 mg",
+        "rb": "0 µg",
+        "s": "0 mg",
+        "se": "5.5 µg",
+        "si": "0 mg",
+        "sr": "0 µg",
+        "v": "0 µg",
+        "zn": "1.3 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": true,
+    "isLactoseFree": true,
+    "isVegan": true,
+    "isKetogenic": false,
+    "isWholeFoods": true,
+    "isLowFodmap": false,
+    "isPaleoFriendly": false,
+    "isRaw": false
+  },
+  "allergens": [
+    "Sezam"
+  ],
+  "nutriScore": "B"
+}

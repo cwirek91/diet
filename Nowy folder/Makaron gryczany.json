@@ -1,0 +1,179 @@
+{
+  "productName": "Makaron gryczany",
+  "category": "Pasta",
+  "glycemicIndex": "45",
+  "glycemicLoad": "15",
+  "caffeine": "0 mg",
+  "salt": "0.01 g",
+  "water": "9.6 g",
+  "calories": "350 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "13.5 g",
+        "animalBased": "0 g",
+        "plantBased": "13.5 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "290 mg",
+            "isoleucine": "440 mg",
+            "leucine": "780 mg",
+            "lysine": "520 mg",
+            "methionine": "240 mg",
+            "phenylalanine": "560 mg",
+            "threonine": "420 mg",
+            "tryptophan": "180 mg",
+            "valine": "530 mg"
+          },
+          "nonEssential": {
+            "alanine": "520 mg",
+            "asparagine": "950 mg",
+            "asparticAcid": "950 mg",
+            "glutamicAcid": "2100 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "960 mg",
+            "cysteine": "250 mg",
+            "glutamine": "2100 mg",
+            "tyrosine": "340 mg",
+            "glycine": "620 mg",
+            "proline": "460 mg",
+            "serine": "590 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "3.4 g",
+        "saturated": {
+          "total": "0.7 g",
+          "lauricAcid": "0 g",
+          "myristicAcid": "0 g",
+          "palmiticAcid": "0.4 g",
+          "stearicAcid": "0.1 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "0.9 g",
+            "omega9": {
+              "total": "0.8 g",
+              "oleicAcid": "0.8 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "1.4 g",
+            "omega3": {
+              "total": "0.1 g",
+              "ala": "0.1 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "1.3 g",
+              "linoleicAcid": "1.3 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "0 mg"
+      },
+      "carbohydrates": {
+        "total": "70.6 g",
+        "simple": {
+          "total": "1.1 g",
+          "monosaccharides": {
+            "glucose": "0.5 g",
+            "fructose": "0.3 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "0.3 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "69.5 g",
+          "starches": "64.5 g",
+          "fiber": {
+            "total": "5 g",
+            "soluble": "1.5 g",
+            "insoluble": "3.5 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "0 µg",
+          "retinol": "0 µg",
+          "betaCarotene": "0 µg"
+        },
+        "b1": "0.4 mg",
+        "b2": "0.1 mg",
+        "b3": {
+          "total": "4.5 mg",
+          "niacin": "4.5 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "35 mg",
+        "b5": "1.2 mg",
+        "b6": "0.3 mg",
+        "b7": "5 µg",
+        "b8": "0 mg",
+        "b9": "30 µg",
+        "b12": "0 µg",
+        "c": "0 mg",
+        "d": "0 µg",
+        "e": "0.3 mg",
+        "k": "2.5 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "0 mg",
+        "ca": "18 mg",
+        "cl": "10 mg",
+        "co": "0 µg",
+        "cr": "5 µg",
+        "cu": "0.5 mg",
+        "f": "30 µg",
+        "fe": "2.8 mg",
+        "i": "0 µg",
+        "k": "460 mg",
+        "li": "2 µg",
+        "mg": "230 mg",
+        "mn": "1.3 mg",
+        "mo": "20 µg",
+        "na": "5 mg",
+        "ni": "40 µg",
+        "p": "350 mg",
+        "rb": "150 µg",
+        "s": "230 mg",
+        "se": "20 µg",
+        "si": "0 mg",
+        "sr": "10 µg",
+        "v": "10 µg",
+        "zn": "2.4 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": true,
+    "isLactoseFree": true,
+    "isVegan": true,
+    "isKetogenic": false,
+    "isWholeFoods": true,
+    "isLowFodmap": true,
+    "isPaleoFriendly": false,
+    "isRaw": false
+  },
+  "allergens": [
+    "Gryka"
+  ],
+  "nutriScore": "A"
+}

@@ -1,0 +1,179 @@
+{
+  "productName": "Kiwi",
+  "category": "Fruits",
+  "glycemicIndex": "50",
+  "glycemicLoad": "6",
+  "caffeine": "0 mg",
+  "salt": "0.003 g",
+  "water": "83.07 g",
+  "calories": "61 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "1.14 g",
+        "animalBased": "0 g",
+        "plantBased": "1.14 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "20 mg",
+            "isoleucine": "38 mg",
+            "leucine": "55 mg",
+            "lysine": "56 mg",
+            "methionine": "9 mg",
+            "phenylalanine": "38 mg",
+            "threonine": "36 mg",
+            "tryptophan": "11 mg",
+            "valine": "45 mg"
+          },
+          "nonEssential": {
+            "alanine": "45 mg",
+            "asparagine": "147 mg",
+            "asparticAcid": "147 mg",
+            "glutamicAcid": "127 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "52 mg",
+            "cysteine": "17 mg",
+            "glutamine": "110 mg",
+            "tyrosine": "25 mg",
+            "glycine": "40 mg",
+            "proline": "35 mg",
+            "serine": "41 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "0.52 g",
+        "saturated": {
+          "total": "0.029 g",
+          "lauricAcid": "0 g",
+          "myristicAcid": "0.001 g",
+          "palmiticAcid": "0.019 g",
+          "stearicAcid": "0.004 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "0.047 g",
+            "omega9": {
+              "total": "0.047 g",
+              "oleicAcid": "0.047 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "0.287 g",
+            "omega3": {
+              "total": "0.086 g",
+              "ala": "0.086 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "0.201 g",
+              "linoleicAcid": "0.201 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "0 mg"
+      },
+      "carbohydrates": {
+        "total": "14.66 g",
+        "simple": {
+          "total": "8.99 g",
+          "monosaccharides": {
+            "glucose": "4.11 g",
+            "fructose": "4.35 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "0.53 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "5.67 g",
+          "starches": "2.87 g",
+          "fiber": {
+            "total": "3.0 g",
+            "soluble": "1.0 g",
+            "insoluble": "2.0 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "4 µg",
+          "retinol": "0 µg",
+          "betaCarotene": "48 µg"
+        },
+        "b1": "0.027 mg",
+        "b2": "0.025 mg",
+        "b3": {
+          "total": "0.341 mg",
+          "niacin": "0.341 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "6.7 mg",
+        "b5": "0.183 mg",
+        "b6": "0.063 mg",
+        "b7": "0.2 µg",
+        "b8": "0 mg",
+        "b9": "25 µg",
+        "b12": "0 µg",
+        "c": "92.7 mg",
+        "d": "0 µg",
+        "e": "1.46 mg",
+        "k": "40.3 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "0.09 mg",
+        "ca": "34 mg",
+        "cl": "5 mg",
+        "co": "0.2 µg",
+        "cr": "0.9 µg",
+        "cu": "0.13 mg",
+        "f": "0.8 µg",
+        "fe": "0.31 mg",
+        "i": "0.8 µg",
+        "k": "312 mg",
+        "li": "0.8 µg",
+        "mg": "17 mg",
+        "mn": "0.098 mg",
+        "mo": "3.8 µg",
+        "na": "3 mg",
+        "ni": "3.1 µg",
+        "p": "34 mg",
+        "rb": "184 µg",
+        "s": "13 mg",
+        "se": "0.2 µg",
+        "si": "0.8 mg",
+        "sr": "40 µg",
+        "v": "0.5 µg",
+        "zn": "0.14 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": true,
+    "isLactoseFree": true,
+    "isVegan": true,
+    "isKetogenic": false,
+    "isWholeFoods": true,
+    "isLowFodmap": false,
+    "isPaleoFriendly": true,
+    "isRaw": true
+  },
+  "allergens": [
+    "Aktynidyna"
+  ],
+  "nutriScore": "A"
+}

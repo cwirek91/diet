@@ -1,0 +1,179 @@
+{
+  "productName": "Nasiona słonecznika",
+  "category": "Seeds",
+  "glycemicIndex": "35",
+  "glycemicLoad": "1",
+  "caffeine": "0 mg",
+  "salt": "0.002 g",
+  "water": "4.73 g",
+  "calories": "584 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "20.78 g",
+        "animalBased": "0 g",
+        "plantBased": "20.78 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "532 mg",
+            "isoleucine": "938 mg",
+            "leucine": "1407 mg",
+            "lysine": "750 mg",
+            "methionine": "469 mg",
+            "phenylalanine": "1032 mg",
+            "threonine": "813 mg",
+            "tryptophan": "313 mg",
+            "valine": "1126 mg"
+          },
+          "nonEssential": {
+            "alanine": "938 mg",
+            "asparagine": "2126 mg",
+            "asparticAcid": "2126 mg",
+            "glutamicAcid": "4532 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "2407 mg",
+            "cysteine": "376 mg",
+            "glutamine": "4532 mg",
+            "tyrosine": "626 mg",
+            "glycine": "1251 mg",
+            "proline": "938 mg",
+            "serine": "1032 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "51.46 g",
+        "saturated": {
+          "total": "4.455 g",
+          "lauricAcid": "0 g",
+          "myristicAcid": "0.019 g",
+          "palmiticAcid": "2.831 g",
+          "stearicAcid": "1.605 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "18.528 g",
+            "omega9": {
+              "total": "18.528 g",
+              "oleicAcid": "18.528 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "23.137 g",
+            "omega3": {
+              "total": "0.06 g",
+              "ala": "0.06 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "23.077 g",
+              "linoleicAcid": "23.077 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "0 mg"
+      },
+      "carbohydrates": {
+        "total": "20 g",
+        "simple": {
+          "total": "2.62 g",
+          "monosaccharides": {
+            "glucose": "1.31 g",
+            "fructose": "1.31 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "0 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "17.38 g",
+          "starches": "8.98 g",
+          "fiber": {
+            "total": "8.6 g",
+            "soluble": "1.8 g",
+            "insoluble": "6.8 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "3 µg",
+          "retinol": "0 µg",
+          "betaCarotene": "36 µg"
+        },
+        "b1": "1.48 mg",
+        "b2": "0.355 mg",
+        "b3": {
+          "total": "8.335 mg",
+          "niacin": "8.335 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "55.1 mg",
+        "b5": "1.13 mg",
+        "b6": "1.345 mg",
+        "b7": "0 µg",
+        "b8": "0 mg",
+        "b9": "227 µg",
+        "b12": "0 µg",
+        "c": "1.4 mg",
+        "d": "0 µg",
+        "e": "35.17 mg",
+        "k": "2.7 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "0 mg",
+        "ca": "78 mg",
+        "cl": "0 mg",
+        "co": "0 µg",
+        "cr": "0 µg",
+        "cu": "1.8 mg",
+        "f": "0 µg",
+        "fe": "5.25 mg",
+        "i": "0 µg",
+        "k": "645 mg",
+        "li": "0 µg",
+        "mg": "325 mg",
+        "mn": "1.95 mg",
+        "mo": "0 µg",
+        "na": "9 mg",
+        "ni": "0 µg",
+        "p": "660 mg",
+        "rb": "0 µg",
+        "s": "0 mg",
+        "se": "53 µg",
+        "si": "0 mg",
+        "sr": "0 µg",
+        "v": "0 µg",
+        "zn": "5 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": true,
+    "isLactoseFree": true,
+    "isVegan": true,
+    "isKetogenic": false,
+    "isWholeFoods": true,
+    "isLowFodmap": true,
+    "isPaleoFriendly": true,
+    "isRaw": true
+  },
+  "allergens": [
+    "Nasiona słonecznika"
+  ],
+  "nutriScore": "A"
+}

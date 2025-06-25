@@ -1,0 +1,180 @@
+{
+  "productName": "Chleb drwalski",
+  "category": "Bakery products",
+  "glycemicIndex": "50",
+  "glycemicLoad": "10",
+  "caffeine": "0 mg",
+  "salt": "1.2 g",
+  "water": "38 g",
+  "calories": "250 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "8 g",
+        "animalBased": "0 g",
+        "plantBased": "8 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "180 mg",
+            "isoleucine": "320 mg",
+            "leucine": "600 mg",
+            "lysine": "240 mg",
+            "methionine": "140 mg",
+            "phenylalanine": "420 mg",
+            "threonine": "260 mg",
+            "tryptophan": "100 mg",
+            "valine": "400 mg"
+          },
+          "nonEssential": {
+            "alanine": "300 mg",
+            "asparagine": "400 mg",
+            "asparticAcid": "400 mg",
+            "glutamicAcid": "2800 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "400 mg",
+            "cysteine": "180 mg",
+            "glutamine": "2600 mg",
+            "tyrosine": "260 mg",
+            "glycine": "340 mg",
+            "proline": "1000 mg",
+            "serine": "440 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "3.5 g",
+        "saturated": {
+          "total": "0.6 g",
+          "lauricAcid": "0 g",
+          "myristicAcid": "0 g",
+          "palmiticAcid": "0.4 g",
+          "stearicAcid": "0.2 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "0.8 g",
+            "omega9": {
+              "total": "0.7 g",
+              "oleicAcid": "0.7 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "1.8 g",
+            "omega3": {
+              "total": "0.2 g",
+              "ala": "0.2 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "1.6 g",
+              "linoleicAcid": "1.6 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "0 mg"
+      },
+      "carbohydrates": {
+        "total": "45 g",
+        "simple": {
+          "total": "2 g",
+          "monosaccharides": {
+            "glucose": "1 g",
+            "fructose": "1 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "0 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "43 g",
+          "starches": "37 g",
+          "fiber": {
+            "total": "6 g",
+            "soluble": "1.5 g",
+            "insoluble": "4.5 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "0 µg",
+          "retinol": "0 µg",
+          "betaCarotene": "0 µg"
+        },
+        "b1": "0.3 mg",
+        "b2": "0.1 mg",
+        "b3": {
+          "total": "2.5 mg",
+          "niacin": "2.5 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "25 mg",
+        "b5": "0.5 mg",
+        "b6": "0.1 mg",
+        "b7": "4 µg",
+        "b8": "0 mg",
+        "b9": "50 µg",
+        "b12": "0 µg",
+        "c": "0 mg",
+        "d": "0 µg",
+        "e": "0.5 mg",
+        "k": "3 µg"
+      },
+      "minerals": {
+        "as": "1.5 µg",
+        "b": "0.15 mg",
+        "ca": "40 mg",
+        "cl": "700 mg",
+        "co": "0.3 µg",
+        "cr": "7.5 µg",
+        "cu": "0.2 mg",
+        "f": "25 µg",
+        "fe": "2 mg",
+        "i": "3 µg",
+        "k": "150 mg",
+        "li": "1.5 µg",
+        "mg": "50 mg",
+        "mn": "1 mg",
+        "mo": "15 µg",
+        "na": "480 mg",
+        "ni": "7.5 µg",
+        "p": "120 mg",
+        "rb": "150 µg",
+        "s": "125 mg",
+        "se": "20 µg",
+        "si": "3 mg",
+        "sr": "150 µg",
+        "v": "1.5 µg",
+        "zn": "1 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": false,
+    "isLactoseFree": true,
+    "isVegan": true,
+    "isKetogenic": false,
+    "isWholeFoods": false,
+    "isLowFodmap": false,
+    "isPaleoFriendly": false,
+    "isRaw": false
+  },
+  "allergens": [
+    "Gluten",
+    "Może zawierać śladowe ilości orzechów i nasion"
+  ],
+  "nutriScore": "B"
+}

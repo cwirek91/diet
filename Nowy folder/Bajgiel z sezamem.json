@@ -1,0 +1,180 @@
+{
+  "productName": "Bajgiel z sezamem",
+  "category": "Bakery",
+  "glycemicIndex": "72",
+  "glycemicLoad": "39",
+  "caffeine": "0 mg",
+  "salt": "1.18 g",
+  "water": "30.5 g",
+  "calories": "278 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "11.1 g",
+        "animalBased": "0 g",
+        "plantBased": "11.1 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "250 mg",
+            "isoleucine": "440 mg",
+            "leucine": "780 mg",
+            "lysine": "300 mg",
+            "methionine": "180 mg",
+            "phenylalanine": "560 mg",
+            "threonine": "340 mg",
+            "tryptophan": "120 mg",
+            "valine": "490 mg"
+          },
+          "nonEssential": {
+            "alanine": "390 mg",
+            "asparagine": "0 mg",
+            "asparticAcid": "600 mg",
+            "glutamicAcid": "3400 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "450 mg",
+            "cysteine": "220 mg",
+            "glutamine": "0 mg",
+            "tyrosine": "300 mg",
+            "glycine": "410 mg",
+            "proline": "1200 mg",
+            "serine": "550 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "2.6 g",
+        "saturated": {
+          "total": "0.4 g",
+          "lauricAcid": "0 g",
+          "myristicAcid": "0 g",
+          "palmiticAcid": "0.3 g",
+          "stearicAcid": "0.1 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "0.6 g",
+            "omega9": {
+              "total": "0.6 g",
+              "oleicAcid": "0.6 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "1.2 g",
+            "omega3": {
+              "total": "0.06 g",
+              "ala": "0.06 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "1.14 g",
+              "linoleicAcid": "1.14 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "0 mg"
+      },
+      "carbohydrates": {
+        "total": "53.3 g",
+        "simple": {
+          "total": "5.2 g",
+          "monosaccharides": {
+            "glucose": "0.5 g",
+            "fructose": "0.4 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "3.8 g",
+            "lactose": "0 g",
+            "maltose": "0.5 g"
+          }
+        },
+        "complex": {
+          "total": "48.1 g",
+          "starches": "44.2 g",
+          "fiber": {
+            "total": "3.9 g",
+            "soluble": "1.0 g",
+            "insoluble": "2.9 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "0 µg",
+          "retinol": "0 µg",
+          "betaCarotene": "0 µg"
+        },
+        "b1": "0.59 mg",
+        "b2": "0.34 mg",
+        "b3": {
+          "total": "4.2 mg",
+          "niacin": "4.2 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "20.1 mg",
+        "b5": "0.4 mg",
+        "b6": "0.08 mg",
+        "b7": "2.0 µg",
+        "b8": "0 mg",
+        "b9": "140 µg",
+        "b12": "0 µg",
+        "c": "0 mg",
+        "d": "0 µg",
+        "e": "0.4 mg",
+        "k": "1.2 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "0 mg",
+        "ca": "118 mg",
+        "cl": "0 mg",
+        "co": "0 µg",
+        "cr": "0 µg",
+        "cu": "0.21 mg",
+        "f": "0 µg",
+        "fe": "3.6 mg",
+        "i": "0 µg",
+        "k": "165 mg",
+        "li": "0 µg",
+        "mg": "39 mg",
+        "mn": "0.8 mg",
+        "mo": "0 µg",
+        "na": "472 mg",
+        "ni": "0 µg",
+        "p": "135 mg",
+        "rb": "0 µg",
+        "s": "111 mg",
+        "se": "28.5 µg",
+        "si": "0 mg",
+        "sr": "0 µg",
+        "v": "0 µg",
+        "zn": "1.0 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": false,
+    "isLactoseFree": true,
+    "isVegan": true,
+    "isKetogenic": false,
+    "isWholeFoods": false,
+    "isLowFodmap": false,
+    "isPaleoFriendly": false,
+    "isRaw": false
+  },
+  "allergens": [
+    "Gluten",
+    "Nasiona sezamu"
+  ],
+  "nutriScore": "C"
+}

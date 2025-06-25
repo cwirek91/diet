@@ -1,0 +1,181 @@
+{
+  "productName": "Kostka bulionowa warzywna",
+  "category": "Condiments and Sauces",
+  "glycemicIndex": "0",
+  "glycemicLoad": "0",
+  "caffeine": "0 mg",
+  "salt": "4.5 g",
+  "water": "0.5 g",
+  "calories": "10 kcal",
+  "servingSize": "1 szt.",
+  "comment": "ZMIENIONO TYLKO servingSize 100g -> 1 szt.",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "0.5 g",
+        "animalBased": "0 g",
+        "plantBased": "0.5 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "10 mg",
+            "isoleucine": "20 mg",
+            "leucine": "35 mg",
+            "lysine": "30 mg",
+            "methionine": "8 mg",
+            "phenylalanine": "25 mg",
+            "threonine": "20 mg",
+            "tryptophan": "6 mg",
+            "valine": "25 mg"
+          },
+          "nonEssential": {
+            "alanine": "25 mg",
+            "asparagine": "40 mg",
+            "asparticAcid": "40 mg",
+            "glutamicAcid": "80 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "25 mg",
+            "cysteine": "8 mg",
+            "glutamine": "80 mg",
+            "tyrosine": "20 mg",
+            "glycine": "25 mg",
+            "proline": "25 mg",
+            "serine": "25 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "0.2 g",
+        "saturated": {
+          "total": "0.1 g",
+          "lauricAcid": "0 g",
+          "myristicAcid": "0 g",
+          "palmiticAcid": "0.08 g",
+          "stearicAcid": "0.02 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "0.08 g",
+            "omega9": {
+              "total": "0.07 g",
+              "oleicAcid": "0.07 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "0.02 g",
+            "omega3": {
+              "total": "0.005 g",
+              "ala": "0.005 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "0.015 g",
+              "linoleicAcid": "0.015 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "0 mg"
+      },
+      "carbohydrates": {
+        "total": "1.3 g",
+        "simple": {
+          "total": "0.3 g",
+          "monosaccharides": {
+            "glucose": "0.15 g",
+            "fructose": "0.15 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "0 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "1 g",
+          "starches": "0.8 g",
+          "fiber": {
+            "total": "0.2 g",
+            "soluble": "0.1 g",
+            "insoluble": "0.1 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "0 µg",
+          "retinol": "0 µg",
+          "betaCarotene": "0 µg"
+        },
+        "b1": "0.01 mg",
+        "b2": "0.01 mg",
+        "b3": {
+          "total": "0.2 mg",
+          "niacin": "0.2 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "1 mg",
+        "b5": "0.05 mg",
+        "b6": "0.02 mg",
+        "b7": "0 µg",
+        "b8": "0 mg",
+        "b9": "2 µg",
+        "b12": "0 µg",
+        "c": "0 mg",
+        "d": "0 µg",
+        "e": "0.1 mg",
+        "k": "0 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "0.02 mg",
+        "ca": "5 mg",
+        "cl": "2730 mg",
+        "co": "0 µg",
+        "cr": "0 µg",
+        "cu": "0.01 mg",
+        "f": "0 µg",
+        "fe": "0.2 mg",
+        "i": "1 µg",
+        "k": "20 mg",
+        "li": "0 µg",
+        "mg": "2 mg",
+        "mn": "0.02 mg",
+        "mo": "0 µg",
+        "na": "1800 mg",
+        "ni": "0 µg",
+        "p": "2 mg",
+        "rb": "0 µg",
+        "s": "5 mg",
+        "se": "0 µg",
+        "si": "0.1 mg",
+        "sr": "0 µg",
+        "v": "0 µg",
+        "zn": "0.05 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": false,
+    "isLactoseFree": true,
+    "isVegan": true,
+    "isKetogenic": false,
+    "isWholeFoods": false,
+    "isLowFodmap": false,
+    "isPaleoFriendly": false,
+    "isRaw": false
+  },
+  "allergens": [
+    "Może zawierać seler",
+    "Może zawierać gluten"
+  ],
+  "nutriScore": "D"
+}

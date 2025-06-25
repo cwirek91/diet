@@ -1,0 +1,179 @@
+{
+  "productName": "Jajko kurze",
+  "category": "Eggs and Egg Products",
+  "glycemicIndex": "0",
+  "glycemicLoad": "0",
+  "caffeine": "0 mg",
+  "salt": "0.223 g",
+  "water": "45.69 g",
+  "calories": "85 kcal",
+  "servingSize": "1 szt.",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "7.55 g",
+        "animalBased": "7.55 g",
+        "plantBased": "0 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "179 mg",
+            "isoleucine": "403 mg",
+            "leucine": "652 mg",
+            "lysine": "548 mg",
+            "methionine": "236 mg",
+            "phenylalanine": "409 mg",
+            "threonine": "334 mg",
+            "tryptophan": "100 mg",
+            "valine": "460 mg"
+          },
+          "nonEssential": {
+            "alanine": "442 mg",
+            "asparagine": "0 mg",
+            "asparticAcid": "759 mg",
+            "glutamicAcid": "987 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "453 mg",
+            "cysteine": "175 mg",
+            "glutamine": "0 mg",
+            "tyrosine": "308 mg",
+            "glycine": "254 mg",
+            "proline": "301 mg",
+            "serine": "562 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "5.71 g",
+        "saturated": {
+          "total": "1.876 g",
+          "lauricAcid": "0.002 g",
+          "myristicAcid": "0.023 g",
+          "palmiticAcid": "1.339 g",
+          "stearicAcid": "0.512 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "2.195 g",
+            "omega9": {
+              "total": "2.065 g",
+              "oleicAcid": "2.065 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "1.147 g",
+            "omega3": {
+              "total": "0.051 g",
+              "ala": "0.020 g",
+              "epa": "0.002 g",
+              "dha": "0.029 g"
+            },
+            "omega6": {
+              "total": "1.095 g",
+              "linoleicAcid": "0.933 g",
+              "arachidonicAcid": "0.088 g"
+            }
+          }
+        },
+        "trans": "0.023 g",
+        "cholesterol": "223 mg"
+      },
+      "carbohydrates": {
+        "total": "0.47 g",
+        "simple": {
+          "total": "0.47 g",
+          "monosaccharides": {
+            "glucose": "0.22 g",
+            "fructose": "0.01 g",
+            "galactose": "0.24 g"
+          },
+          "disaccharides": {
+            "sucrose": "0 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "0 g",
+          "starches": "0 g",
+          "fiber": {
+            "total": "0 g",
+            "soluble": "0 g",
+            "insoluble": "0 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "96 µg",
+          "retinol": "96 µg",
+          "betaCarotene": "0 µg"
+        },
+        "b1": "0.039 mg",
+        "b2": "0.300 mg",
+        "b3": {
+          "total": "0.045 mg",
+          "niacin": "0.045 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "176 mg",
+        "b5": "0.920 mg",
+        "b6": "0.102 mg",
+        "b7": "11.9 µg",
+        "b8": "0 mg",
+        "b9": "28 µg",
+        "b12": "0.53 µg",
+        "c": "0 mg",
+        "d": "1.2 µg",
+        "e": "0.63 mg",
+        "k": "0.18 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "0.13 mg",
+        "ca": "34 mg",
+        "cl": "0 mg",
+        "co": "0 µg",
+        "cr": "0.8 µg",
+        "cu": "0.043 mg",
+        "f": "1.0 µg",
+        "fe": "1.05 mg",
+        "i": "20 µg",
+        "k": "83 mg",
+        "li": "0 µg",
+        "mg": "7 mg",
+        "mn": "0.017 mg",
+        "mo": "5.5 µg",
+        "na": "85 mg",
+        "ni": "0 µg",
+        "p": "119 mg",
+        "rb": "0 µg",
+        "s": "101 mg",
+        "se": "18.4 µg",
+        "si": "0 mg",
+        "sr": "0 µg",
+        "v": "0 µg",
+        "zn": "0.77 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": false,
+    "isGlutenFree": true,
+    "isLactoseFree": true,
+    "isVegan": false,
+    "isKetogenic": true,
+    "isWholeFoods": true,
+    "isLowFodmap": true,
+    "isPaleoFriendly": true,
+    "isRaw": false
+  },
+  "allergens": [
+    "Jaja"
+  ],
+  "nutriScore": "B"
+}

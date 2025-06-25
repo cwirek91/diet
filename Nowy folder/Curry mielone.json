@@ -1,0 +1,179 @@
+{
+  "productName": "Curry mielone",
+  "category": "Spices and Herbs",
+  "glycemicIndex": "0",
+  "glycemicLoad": "0",
+  "caffeine": "0 mg",
+  "salt": "0.1 g",
+  "water": "8.5 g",
+  "calories": "325 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "13.2 g",
+        "animalBased": "0 g",
+        "plantBased": "13.2 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "246 mg",
+            "isoleucine": "483 mg",
+            "leucine": "830 mg",
+            "lysine": "517 mg",
+            "methionine": "213 mg",
+            "phenylalanine": "543 mg",
+            "threonine": "438 mg",
+            "tryptophan": "165 mg",
+            "valine": "615 mg"
+          },
+          "nonEssential": {
+            "alanine": "548 mg",
+            "asparagine": "1050 mg",
+            "asparticAcid": "1050 mg",
+            "glutamicAcid": "1980 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "675 mg",
+            "cysteine": "210 mg",
+            "glutamine": "1980 mg",
+            "tyrosine": "393 mg",
+            "glycine": "555 mg",
+            "proline": "525 mg",
+            "serine": "525 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "14.0 g",
+        "saturated": {
+          "total": "4.2 g",
+          "lauricAcid": "0.1 g",
+          "myristicAcid": "0.1 g",
+          "palmiticAcid": "2.5 g",
+          "stearicAcid": "1.5 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "2.1 g",
+            "omega9": {
+              "total": "2.0 g",
+              "oleicAcid": "2.0 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "3.7 g",
+            "omega3": {
+              "total": "0.7 g",
+              "ala": "0.7 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "3.0 g",
+              "linoleicAcid": "3.0 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "0 mg"
+      },
+      "carbohydrates": {
+        "total": "55.8 g",
+        "simple": {
+          "total": "3.3 g",
+          "monosaccharides": {
+            "glucose": "1.5 g",
+            "fructose": "1.5 g",
+            "galactose": "0.3 g"
+          },
+          "disaccharides": {
+            "sucrose": "0 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "52.5 g",
+          "starches": "21.5 g",
+          "fiber": {
+            "total": "31.0 g",
+            "soluble": "10.3 g",
+            "insoluble": "20.7 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "1800 µg",
+          "retinol": "0 µg",
+          "betaCarotene": "21600 µg"
+        },
+        "b1": "0.4 mg",
+        "b2": "0.5 mg",
+        "b3": {
+          "total": "5.0 mg",
+          "niacin": "5.0 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "30.0 mg",
+        "b5": "2.0 mg",
+        "b6": "1.0 mg",
+        "b7": "15 µg",
+        "b8": "0 mg",
+        "b9": "20 µg",
+        "b12": "0 µg",
+        "c": "7.0 mg",
+        "d": "0 µg",
+        "e": "20.0 mg",
+        "k": "120 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "0.5 mg",
+        "ca": "400 mg",
+        "cl": "20 mg",
+        "co": "0 µg",
+        "cr": "30 µg",
+        "cu": "1.0 mg",
+        "f": "10 µg",
+        "fe": "40.0 mg",
+        "i": "10 µg",
+        "k": "1500 mg",
+        "li": "0 µg",
+        "mg": "300 mg",
+        "mn": "10.0 mg",
+        "mo": "5 µg",
+        "na": "20 mg",
+        "ni": "0 µg",
+        "p": "400 mg",
+        "rb": "0 µg",
+        "s": "300 mg",
+        "se": "10 µg",
+        "si": "0 mg",
+        "sr": "0 µg",
+        "v": "0 µg",
+        "zn": "5.0 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": true,
+    "isLactoseFree": true,
+    "isVegan": true,
+    "isKetogenic": false,
+    "isWholeFoods": true,
+    "isLowFodmap": false,
+    "isPaleoFriendly": true,
+    "isRaw": false
+  },
+  "allergens": [
+    "Gorczyca"
+  ],
+  "nutriScore": "A"
+}
