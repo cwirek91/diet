@@ -1,0 +1,179 @@
+{
+  "productName": "Pestki dyni",
+  "category": "Seeds",
+  "glycemicIndex": "25",
+  "glycemicLoad": "1",
+  "caffeine": "0 mg",
+  "salt": "0.009 g",
+  "water": "4.5 g",
+  "calories": "559 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "30.23 g",
+        "animalBased": "0 g",
+        "plantBased": "30.23 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "650 mg",
+            "isoleucine": "1208 mg",
+            "leucine": "2084 mg",
+            "lysine": "1386 mg",
+            "methionine": "596 mg",
+            "phenylalanine": "1393 mg",
+            "threonine": "936 mg",
+            "tryptophan": "576 mg",
+            "valine": "1519 mg"
+          },
+          "nonEssential": {
+            "alanine": "1346 mg",
+            "asparagine": "0 mg",
+            "asparticAcid": "2875 mg",
+            "glutamicAcid": "5140 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "4640 mg",
+            "cysteine": "401 mg",
+            "glutamine": "0 mg",
+            "tyrosine": "1076 mg",
+            "glycine": "1572 mg",
+            "proline": "1153 mg",
+            "serine": "1432 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "49.05 g",
+        "saturated": {
+          "total": "8.659 g",
+          "lauricAcid": "0 g",
+          "myristicAcid": "0.026 g",
+          "palmiticAcid": "5.704 g",
+          "stearicAcid": "2.247 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "16.242 g",
+            "omega9": {
+              "total": "16.242 g",
+              "oleicAcid": "16.242 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "20.976 g",
+            "omega3": {
+              "total": "0.174 g",
+              "ala": "0.174 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "20.802 g",
+              "linoleicAcid": "20.802 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "0 mg"
+      },
+      "carbohydrates": {
+        "total": "10.71 g",
+        "simple": {
+          "total": "0.36 g",
+          "monosaccharides": {
+            "glucose": "0.18 g",
+            "fructose": "0.18 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "0 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "10.35 g",
+          "starches": "5.35 g",
+          "fiber": {
+            "total": "6 g",
+            "soluble": "1.5 g",
+            "insoluble": "4.5 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "16 µg",
+          "retinol": "0 µg",
+          "betaCarotene": "9 µg"
+        },
+        "b1": "0.273 mg",
+        "b2": "0.153 mg",
+        "b3": {
+          "total": "4.987 mg",
+          "niacin": "4.987 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "0 mg",
+        "b5": "0.750 mg",
+        "b6": "0.143 mg",
+        "b7": "0 µg",
+        "b8": "0 mg",
+        "b9": "58 µg",
+        "b12": "0 µg",
+        "c": "1.9 mg",
+        "d": "0 µg",
+        "e": "2.18 mg",
+        "k": "7.3 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "0 mg",
+        "ca": "46 mg",
+        "cl": "0 mg",
+        "co": "0 µg",
+        "cr": "0 µg",
+        "cu": "1.343 mg",
+        "f": "0 µg",
+        "fe": "8.82 mg",
+        "i": "0 µg",
+        "k": "809 mg",
+        "li": "0 µg",
+        "mg": "592 mg",
+        "mn": "4.543 mg",
+        "mo": "0 µg",
+        "na": "7 mg",
+        "ni": "0 µg",
+        "p": "1233 mg",
+        "rb": "0 µg",
+        "s": "0 mg",
+        "se": "9.4 µg",
+        "si": "0 mg",
+        "sr": "0 µg",
+        "v": "0 µg",
+        "zn": "7.81 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": true,
+    "isLactoseFree": true,
+    "isVegan": true,
+    "isKetogenic": true,
+    "isWholeFoods": true,
+    "isLowFodmap": true,
+    "isPaleoFriendly": true,
+    "isRaw": true
+  },
+  "allergens": [
+    "Pestki dyni"
+  ],
+  "nutriScore": "A"
+}

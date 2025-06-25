@@ -1,0 +1,180 @@
+{
+  "productName": "Tortilla pełnoziarnista",
+  "category": "Bakery Products",
+  "glycemicIndex": "50",
+  "glycemicLoad": "10",
+  "caffeine": "0 mg",
+  "salt": "0.4 g",
+  "water": "18.6 g",
+  "calories": "174 kcal",
+  "servingSize": "1 szt.",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "5.6 g",
+        "animalBased": "0 g",
+        "plantBased": "5.6 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "93 mg",
+            "isoleucine": "186 mg",
+            "leucine": "335 mg",
+            "lysine": "112 mg",
+            "methionine": "74 mg",
+            "phenylalanine": "223 mg",
+            "threonine": "149 mg",
+            "tryptophan": "56 mg",
+            "valine": "205 mg"
+          },
+          "nonEssential": {
+            "alanine": "167 mg",
+            "asparagine": "223 mg",
+            "asparticAcid": "260 mg",
+            "glutamicAcid": "1488 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "186 mg",
+            "cysteine": "93 mg",
+            "glutamine": "1674 mg",
+            "tyrosine": "130 mg",
+            "glycine": "186 mg",
+            "proline": "465 mg",
+            "serine": "223 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "4.6 g",
+        "saturated": {
+          "total": "0.9 g",
+          "lauricAcid": "0 g",
+          "myristicAcid": "0 g",
+          "palmiticAcid": "0.7 g",
+          "stearicAcid": "0.2 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "2.0 g",
+            "omega9": {
+              "total": "1.9 g",
+              "oleicAcid": "1.9 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "1.7 g",
+            "omega3": {
+              "total": "0.2 g",
+              "ala": "0.2 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "1.5 g",
+              "linoleicAcid": "1.5 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "0 mg"
+      },
+      "carbohydrates": {
+        "total": "29.8 g",
+        "simple": {
+          "total": "0.9 g",
+          "monosaccharides": {
+            "glucose": "0.4 g",
+            "fructose": "0.4 g",
+            "galactose": "0.1 g"
+          },
+          "disaccharides": {
+            "sucrose": "0.6 g",
+            "lactose": "0 g",
+            "maltose": "0.4 g"
+          }
+        },
+        "complex": {
+          "total": "28.9 g",
+          "starches": "25.1 g",
+          "fiber": {
+            "total": "3.8 g",
+            "soluble": "0.9 g",
+            "insoluble": "2.9 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "0 µg",
+          "retinol": "0 µg",
+          "betaCarotene": "0 µg"
+        },
+        "b1": "0.2 mg",
+        "b2": "0.1 mg",
+        "b3": {
+          "total": "2.4 mg",
+          "niacin": "2.2 mg",
+          "niacinamide": "0.2 mg"
+        },
+        "b4": "18.6 mg",
+        "b5": "0.4 mg",
+        "b6": "0.2 mg",
+        "b7": "3.7 µg",
+        "b8": "0 mg",
+        "b9": "37.2 µg",
+        "b12": "0 µg",
+        "c": "0 mg",
+        "d": "0 µg",
+        "e": "0.2 mg",
+        "k": "0.7 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "0 mg",
+        "ca": "37.2 mg",
+        "cl": "446.4 mg",
+        "co": "0 µg",
+        "cr": "0.9 µg",
+        "cu": "0.2 mg",
+        "f": "0 µg",
+        "fe": "1.9 mg",
+        "i": "0 µg",
+        "k": "111.6 mg",
+        "li": "0 µg",
+        "mg": "37.2 mg",
+        "mn": "0.7 mg",
+        "mo": "9.3 µg",
+        "na": "297.6 mg",
+        "ni": "0 µg",
+        "p": "111.6 mg",
+        "rb": "0 µg",
+        "s": "0 mg",
+        "se": "11.2 µg",
+        "si": "0 mg",
+        "sr": "0 µg",
+        "v": "0 µg",
+        "zn": "0.9 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": false,
+    "isLactoseFree": true,
+    "isVegan": true,
+    "isKetogenic": false,
+    "isWholeFoods": true,
+    "isLowFodmap": false,
+    "isPaleoFriendly": false,
+    "isRaw": false
+  },
+  "allergens": [
+    "Gluten",
+    "Pszenica"
+  ],
+  "nutriScore": "B"
+}

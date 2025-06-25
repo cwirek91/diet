@@ -1,0 +1,179 @@
+{
+  "productName": "Pieczywo chrupkie kukurydziane",
+  "category": "Grains",
+  "glycemicIndex": "70",
+  "glycemicLoad": "11",
+  "caffeine": "0 mg",
+  "salt": "0.5 g",
+  "water": "5.1 g",
+  "calories": "378 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "7.2 g",
+        "animalBased": "0 g",
+        "plantBased": "7.2 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "194 mg",
+            "isoleucine": "266 mg",
+            "leucine": "864 mg",
+            "lysine": "220 mg",
+            "methionine": "158 mg",
+            "phenylalanine": "360 mg",
+            "threonine": "266 mg",
+            "tryptophan": "50 mg",
+            "valine": "360 mg"
+          },
+          "nonEssential": {
+            "alanine": "554 mg",
+            "asparagine": "0 mg",
+            "asparticAcid": "504 mg",
+            "glutamicAcid": "1368 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "360 mg",
+            "cysteine": "158 mg",
+            "glutamine": "0 mg",
+            "tyrosine": "266 mg",
+            "glycine": "288 mg",
+            "proline": "648 mg",
+            "serine": "360 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "3.4 g",
+        "saturated": {
+          "total": "0.5 g",
+          "lauricAcid": "0 g",
+          "myristicAcid": "0 g",
+          "palmiticAcid": "0.4 g",
+          "stearicAcid": "0.1 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "0.9 g",
+            "omega9": {
+              "total": "0.9 g",
+              "oleicAcid": "0.9 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "1.6 g",
+            "omega3": {
+              "total": "0.1 g",
+              "ala": "0.1 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "1.5 g",
+              "linoleicAcid": "1.5 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "0 mg"
+      },
+      "carbohydrates": {
+        "total": "80.1 g",
+        "simple": {
+          "total": "0.9 g",
+          "monosaccharides": {
+            "glucose": "0.45 g",
+            "fructose": "0.45 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "0 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "79.2 g",
+          "starches": "75.2 g",
+          "fiber": {
+            "total": "4 g",
+            "soluble": "1 g",
+            "insoluble": "3 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "1 µg",
+          "retinol": "0 µg",
+          "betaCarotene": "12 µg"
+        },
+        "b1": "0.3 mg",
+        "b2": "0.1 mg",
+        "b3": {
+          "total": "1.5 mg",
+          "niacin": "1.5 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "15.5 mg",
+        "b5": "0.4 mg",
+        "b6": "0.2 mg",
+        "b7": "0.6 µg",
+        "b8": "0 mg",
+        "b9": "23 µg",
+        "b12": "0 µg",
+        "c": "0 mg",
+        "d": "0 µg",
+        "e": "0.4 mg",
+        "k": "0.3 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "0 mg",
+        "ca": "20 mg",
+        "cl": "0 mg",
+        "co": "0 µg",
+        "cr": "0 µg",
+        "cu": "0.2 mg",
+        "f": "0 µg",
+        "fe": "2.5 mg",
+        "i": "0 µg",
+        "k": "170 mg",
+        "li": "0 µg",
+        "mg": "60 mg",
+        "mn": "0.4 mg",
+        "mo": "0 µg",
+        "na": "200 mg",
+        "ni": "0 µg",
+        "p": "180 mg",
+        "rb": "0 µg",
+        "s": "0 mg",
+        "se": "9.7 µg",
+        "si": "0 mg",
+        "sr": "0 µg",
+        "v": "0 µg",
+        "zn": "1.2 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": true,
+    "isLactoseFree": true,
+    "isVegan": true,
+    "isKetogenic": false,
+    "isWholeFoods": false,
+    "isLowFodmap": true,
+    "isPaleoFriendly": false,
+    "isRaw": false
+  },
+  "allergens": [
+    "Kukurydza"
+  ],
+  "nutriScore": "B"
+}

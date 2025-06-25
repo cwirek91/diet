@@ -1,0 +1,180 @@
+{
+  "productName": "Przyprawa do kurczaka",
+  "category": "Spices and Seasonings",
+  "glycemicIndex": "0",
+  "glycemicLoad": "0",
+  "caffeine": "0 mg",
+  "salt": "12 g",
+  "water": "5 g",
+  "calories": "250 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "8 g",
+        "animalBased": "0 g",
+        "plantBased": "8 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "160 mg",
+            "isoleucine": "320 mg",
+            "leucine": "560 mg",
+            "lysine": "400 mg",
+            "methionine": "160 mg",
+            "phenylalanine": "360 mg",
+            "threonine": "320 mg",
+            "tryptophan": "80 mg",
+            "valine": "400 mg"
+          },
+          "nonEssential": {
+            "alanine": "360 mg",
+            "asparagine": "720 mg",
+            "asparticAcid": "720 mg",
+            "glutamicAcid": "1200 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "400 mg",
+            "cysteine": "120 mg",
+            "glutamine": "1200 mg",
+            "tyrosine": "240 mg",
+            "glycine": "360 mg",
+            "proline": "360 mg",
+            "serine": "400 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "3 g",
+        "saturated": {
+          "total": "0.5 g",
+          "lauricAcid": "0 g",
+          "myristicAcid": "0 g",
+          "palmiticAcid": "0.4 g",
+          "stearicAcid": "0.1 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "1 g",
+            "omega9": {
+              "total": "1 g",
+              "oleicAcid": "1 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "1.5 g",
+            "omega3": {
+              "total": "0.2 g",
+              "ala": "0.2 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "1.3 g",
+              "linoleicAcid": "1.3 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "0 mg"
+      },
+      "carbohydrates": {
+        "total": "50 g",
+        "simple": {
+          "total": "2 g",
+          "monosaccharides": {
+            "glucose": "1 g",
+            "fructose": "1 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "0 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "48 g",
+          "starches": "40 g",
+          "fiber": {
+            "total": "8 g",
+            "soluble": "2 g",
+            "insoluble": "6 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "500 µg",
+          "retinol": "0 µg",
+          "betaCarotene": "6000 µg"
+        },
+        "b1": "0.5 mg",
+        "b2": "0.2 mg",
+        "b3": {
+          "total": "2 mg",
+          "niacin": "2 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "15 mg",
+        "b5": "0.5 mg",
+        "b6": "0.5 mg",
+        "b7": "1 µg",
+        "b8": "0 mg",
+        "b9": "20 µg",
+        "b12": "0 µg",
+        "c": "10 mg",
+        "d": "0 µg",
+        "e": "5 mg",
+        "k": "50 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "0.5 mg",
+        "ca": "200 mg",
+        "cl": "7200 mg",
+        "co": "0 µg",
+        "cr": "0 µg",
+        "cu": "0.5 mg",
+        "f": "0 µg",
+        "fe": "10 mg",
+        "i": "0 µg",
+        "k": "500 mg",
+        "li": "0 µg",
+        "mg": "100 mg",
+        "mn": "2 mg",
+        "mo": "0 µg",
+        "na": "4800 mg",
+        "ni": "0 µg",
+        "p": "100 mg",
+        "rb": "0 µg",
+        "s": "0 mg",
+        "se": "5 µg",
+        "si": "0 mg",
+        "sr": "0 µg",
+        "v": "0 µg",
+        "zn": "2 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": false,
+    "isLactoseFree": true,
+    "isVegan": true,
+    "isKetogenic": false,
+    "isWholeFoods": false,
+    "isLowFodmap": false,
+    "isPaleoFriendly": false,
+    "isRaw": false
+  },
+  "allergens": [
+    "Może zawierać gluten",
+    "Może zawierać śladowe ilości gorczycy"
+  ],
+  "nutriScore": "C"
+}

@@ -1,0 +1,179 @@
+{
+  "productName": "Orzechy laskowe",
+  "category": "Nuts",
+  "glycemicIndex": "15",
+  "glycemicLoad": "2",
+  "caffeine": "0 mg",
+  "salt": "0 g",
+  "water": "5.31 g",
+  "calories": "628 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "14.95 g",
+        "animalBased": "0 g",
+        "plantBased": "14.95 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "297 mg",
+            "isoleucine": "534 mg",
+            "leucine": "1013 mg",
+            "lysine": "398 mg",
+            "methionine": "220 mg",
+            "phenylalanine": "594 mg",
+            "threonine": "491 mg",
+            "tryptophan": "188 mg",
+            "valine": "709 mg"
+          },
+          "nonEssential": {
+            "alanine": "740 mg",
+            "asparagine": "1101 mg",
+            "asparticAcid": "1101 mg",
+            "glutamicAcid": "3096 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "2209 mg",
+            "cysteine": "305 mg",
+            "glutamine": "3096 mg",
+            "tyrosine": "436 mg",
+            "glycine": "674 mg",
+            "proline": "645 mg",
+            "serine": "726 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "60.75 g",
+        "saturated": {
+          "total": "4.464 g",
+          "lauricAcid": "0 g",
+          "myristicAcid": "0.013 g",
+          "palmiticAcid": "2.831 g",
+          "stearicAcid": "1.097 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "45.652 g",
+            "omega9": {
+              "total": "45.413 g",
+              "oleicAcid": "45.413 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "7.920 g",
+            "omega3": {
+              "total": "0.087 g",
+              "ala": "0.087 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "7.833 g",
+              "linoleicAcid": "7.833 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "0 mg"
+      },
+      "carbohydrates": {
+        "total": "16.70 g",
+        "simple": {
+          "total": "4.34 g",
+          "monosaccharides": {
+            "glucose": "0.35 g",
+            "fructose": "0.24 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "3.75 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "12.36 g",
+          "starches": "2.86 g",
+          "fiber": {
+            "total": "9.7 g",
+            "soluble": "1.2 g",
+            "insoluble": "8.5 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "1 µg",
+          "retinol": "0 µg",
+          "betaCarotene": "12 µg"
+        },
+        "b1": "0.643 mg",
+        "b2": "0.113 mg",
+        "b3": {
+          "total": "1.800 mg",
+          "niacin": "1.800 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "55.9 mg",
+        "b5": "0.918 mg",
+        "b6": "0.563 mg",
+        "b7": "0.7 µg",
+        "b8": "0 mg",
+        "b9": "113 µg",
+        "b12": "0 µg",
+        "c": "6.3 mg",
+        "d": "0 µg",
+        "e": "15.03 mg",
+        "k": "14.2 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "2.770 mg",
+        "ca": "114 mg",
+        "cl": "0 mg",
+        "co": "23.7 µg",
+        "cr": "4.7 µg",
+        "cu": "1.725 mg",
+        "f": "3 µg",
+        "fe": "4.70 mg",
+        "i": "2 µg",
+        "k": "680 mg",
+        "li": "1.5 µg",
+        "mg": "163 mg",
+        "mn": "6.175 mg",
+        "mo": "38.2 µg",
+        "na": "0 mg",
+        "ni": "0.9 µg",
+        "p": "290 mg",
+        "rb": "570 µg",
+        "s": "189 mg",
+        "se": "2.4 µg",
+        "si": "0.5 mg",
+        "sr": "700 µg",
+        "v": "0 µg",
+        "zn": "2.45 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": true,
+    "isLactoseFree": true,
+    "isVegan": true,
+    "isKetogenic": true,
+    "isWholeFoods": true,
+    "isLowFodmap": false,
+    "isPaleoFriendly": true,
+    "isRaw": true
+  },
+  "allergens": [
+    "Orzechy"
+  ],
+  "nutriScore": "A"
+}

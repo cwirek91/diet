@@ -1,0 +1,179 @@
+{
+  "productName": "Sezam biały",
+  "category": "Seeds",
+  "glycemicIndex": "35",
+  "glycemicLoad": "3",
+  "caffeine": "0 mg",
+  "salt": "0.011 g",
+  "water": "4.69 g",
+  "calories": "573 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "17.73 g",
+        "animalBased": "0 g",
+        "plantBased": "17.73 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "503 mg",
+            "isoleucine": "750 mg",
+            "leucine": "1337 mg",
+            "lysine": "544 mg",
+            "methionine": "561 mg",
+            "phenylalanine": "883 mg",
+            "threonine": "689 mg",
+            "tryptophan": "332 mg",
+            "valine": "927 mg"
+          },
+          "nonEssential": {
+            "alanine": "899 mg",
+            "asparagine": "0 mg",
+            "asparticAcid": "1651 mg",
+            "glutamicAcid": "3955 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "2376 mg",
+            "cysteine": "369 mg",
+            "glutamine": "0 mg",
+            "tyrosine": "671 mg",
+            "glycine": "1009 mg",
+            "proline": "750 mg",
+            "serine": "889 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "49.67 g",
+        "saturated": {
+          "total": "6.957 g",
+          "lauricAcid": "0.039 g",
+          "myristicAcid": "0.024 g",
+          "palmiticAcid": "4.475 g",
+          "stearicAcid": "2.147 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "18.759 g",
+            "omega9": {
+              "total": "18.521 g",
+              "oleicAcid": "18.521 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "21.773 g",
+            "omega3": {
+              "total": "0.363 g",
+              "ala": "0.363 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "21.375 g",
+              "linoleicAcid": "21.375 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "0 mg"
+      },
+      "carbohydrates": {
+        "total": "23.45 g",
+        "simple": {
+          "total": "0.3 g",
+          "monosaccharides": {
+            "glucose": "0.1 g",
+            "fructose": "0.1 g",
+            "galactose": "0.1 g"
+          },
+          "disaccharides": {
+            "sucrose": "0.2 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "23.15 g",
+          "starches": "11.65 g",
+          "fiber": {
+            "total": "11.8 g",
+            "soluble": "3.9 g",
+            "insoluble": "7.9 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "1 µg",
+          "retinol": "0 µg",
+          "betaCarotene": "12 µg"
+        },
+        "b1": "0.791 mg",
+        "b2": "0.247 mg",
+        "b3": {
+          "total": "4.515 mg",
+          "niacin": "4.515 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "25.6 mg",
+        "b5": "0.05 mg",
+        "b6": "0.79 mg",
+        "b7": "78.4 µg",
+        "b8": "0 mg",
+        "b9": "97 µg",
+        "b12": "0 µg",
+        "c": "0 mg",
+        "d": "0 µg",
+        "e": "0.25 mg",
+        "k": "0 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "0 mg",
+        "ca": "975 mg",
+        "cl": "0 mg",
+        "co": "0 µg",
+        "cr": "0 µg",
+        "cu": "4.082 mg",
+        "f": "0 µg",
+        "fe": "14.55 mg",
+        "i": "0 µg",
+        "k": "468 mg",
+        "li": "0 µg",
+        "mg": "351 mg",
+        "mn": "2.46 mg",
+        "mo": "0 µg",
+        "na": "11 mg",
+        "ni": "0 µg",
+        "p": "629 mg",
+        "rb": "0 µg",
+        "s": "0 mg",
+        "se": "34.4 µg",
+        "si": "0 mg",
+        "sr": "0 µg",
+        "v": "0 µg",
+        "zn": "7.75 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": true,
+    "isLactoseFree": true,
+    "isVegan": true,
+    "isKetogenic": false,
+    "isWholeFoods": true,
+    "isLowFodmap": true,
+    "isPaleoFriendly": true,
+    "isRaw": true
+  },
+  "allergens": [
+    "Sezam"
+  ],
+  "nutriScore": "B"
+}

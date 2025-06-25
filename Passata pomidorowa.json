@@ -1,0 +1,177 @@
+{
+  "productName": "Passata pomidorowa",
+  "category": "Vegetables",
+  "glycemicIndex": "35",
+  "glycemicLoad": "2",
+  "caffeine": "0 mg",
+  "salt": "0.1 g",
+  "water": "89.5 g",
+  "calories": "32 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "1.3 g",
+        "animalBased": "0 g",
+        "plantBased": "1.3 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "22 mg",
+            "isoleucine": "39 mg",
+            "leucine": "55 mg",
+            "lysine": "50 mg",
+            "methionine": "14 mg",
+            "phenylalanine": "44 mg",
+            "threonine": "41 mg",
+            "tryptophan": "11 mg",
+            "valine": "41 mg"
+          },
+          "nonEssential": {
+            "alanine": "50 mg",
+            "asparagine": "0 mg",
+            "asparticAcid": "118 mg",
+            "glutamicAcid": "431 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "38 mg",
+            "cysteine": "17 mg",
+            "glutamine": "0 mg",
+            "tyrosine": "28 mg",
+            "glycine": "39 mg",
+            "proline": "37 mg",
+            "serine": "42 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "0.2 g",
+        "saturated": {
+          "total": "0.03 g",
+          "lauricAcid": "0 g",
+          "myristicAcid": "0 g",
+          "palmiticAcid": "0.02 g",
+          "stearicAcid": "0.01 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "0.03 g",
+            "omega9": {
+              "total": "0.03 g",
+              "oleicAcid": "0.03 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "0.09 g",
+            "omega3": {
+              "total": "0.01 g",
+              "ala": "0.01 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "0.08 g",
+              "linoleicAcid": "0.08 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "0 mg"
+      },
+      "carbohydrates": {
+        "total": "6 g",
+        "simple": {
+          "total": "4.2 g",
+          "monosaccharides": {
+            "glucose": "2.1 g",
+            "fructose": "2.1 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "0 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "1.8 g",
+          "starches": "0 g",
+          "fiber": {
+            "total": "1.8 g",
+            "soluble": "0.5 g",
+            "insoluble": "1.3 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "42 µg",
+          "retinol": "0 µg",
+          "betaCarotene": "505 µg"
+        },
+        "b1": "0.037 mg",
+        "b2": "0.019 mg",
+        "b3": {
+          "total": "0.594 mg",
+          "niacin": "0.594 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "6.5 mg",
+        "b5": "0.24 mg",
+        "b6": "0.08 mg",
+        "b7": "0 µg",
+        "b8": "0 mg",
+        "b9": "15 µg",
+        "b12": "0 µg",
+        "c": "18 mg",
+        "d": "0 µg",
+        "e": "0.54 mg",
+        "k": "7.9 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "0 mg",
+        "ca": "13 mg",
+        "cl": "0 mg",
+        "co": "0 µg",
+        "cr": "0 µg",
+        "cu": "0.059 mg",
+        "f": "0 µg",
+        "fe": "0.5 mg",
+        "i": "0 µg",
+        "k": "237 mg",
+        "li": "0 µg",
+        "mg": "14 mg",
+        "mn": "0.114 mg",
+        "mo": "0 µg",
+        "na": "42 mg",
+        "ni": "0 µg",
+        "p": "28 mg",
+        "rb": "0 µg",
+        "s": "0 mg",
+        "se": "0.4 µg",
+        "si": "0 mg",
+        "sr": "0 µg",
+        "v": "0 µg",
+        "zn": "0.17 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": true,
+    "isLactoseFree": true,
+    "isVegan": true,
+    "isKetogenic": false,
+    "isWholeFoods": true,
+    "isLowFodmap": true,
+    "isPaleoFriendly": true,
+    "isRaw": false
+  },
+  "allergens": [],
+  "nutriScore": "A"
+}

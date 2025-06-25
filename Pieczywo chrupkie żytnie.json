@@ -1,0 +1,179 @@
+{
+  "productName": "Pieczywo chrupkie żytnie",
+  "category": "Grains",
+  "glycemicIndex": "65",
+  "glycemicLoad": "9",
+  "caffeine": "0 mg",
+  "salt": "0.9 g",
+  "water": "5.2 g",
+  "calories": "350 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "10 g",
+        "animalBased": "0 g",
+        "plantBased": "10 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "215 mg",
+            "isoleucine": "380 mg",
+            "leucine": "615 mg",
+            "lysine": "325 mg",
+            "methionine": "155 mg",
+            "phenylalanine": "430 mg",
+            "threonine": "310 mg",
+            "tryptophan": "100 mg",
+            "valine": "470 mg"
+          },
+          "nonEssential": {
+            "alanine": "390 mg",
+            "asparagine": "0 mg",
+            "asparticAcid": "600 mg",
+            "glutamicAcid": "2400 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "460 mg",
+            "cysteine": "195 mg",
+            "glutamine": "0 mg",
+            "tyrosine": "240 mg",
+            "glycine": "410 mg",
+            "proline": "950 mg",
+            "serine": "430 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "2 g",
+        "saturated": {
+          "total": "0.3 g",
+          "lauricAcid": "0 g",
+          "myristicAcid": "0 g",
+          "palmiticAcid": "0.2 g",
+          "stearicAcid": "0.1 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "0.3 g",
+            "omega9": {
+              "total": "0.3 g",
+              "oleicAcid": "0.3 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "1 g",
+            "omega3": {
+              "total": "0.1 g",
+              "ala": "0.1 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "0.9 g",
+              "linoleicAcid": "0.9 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "0 mg"
+      },
+      "carbohydrates": {
+        "total": "71 g",
+        "simple": {
+          "total": "1.2 g",
+          "monosaccharides": {
+            "glucose": "0.6 g",
+            "fructose": "0.6 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "0 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "69.8 g",
+          "starches": "55.8 g",
+          "fiber": {
+            "total": "14 g",
+            "soluble": "4 g",
+            "insoluble": "10 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "0 µg",
+          "retinol": "0 µg",
+          "betaCarotene": "0 µg"
+        },
+        "b1": "0.3 mg",
+        "b2": "0.2 mg",
+        "b3": {
+          "total": "3 mg",
+          "niacin": "3 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "0 mg",
+        "b5": "0.7 mg",
+        "b6": "0.3 mg",
+        "b7": "0 µg",
+        "b8": "0 mg",
+        "b9": "56 µg",
+        "b12": "0 µg",
+        "c": "0 mg",
+        "d": "0 µg",
+        "e": "0.8 mg",
+        "k": "5.9 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "0 mg",
+        "ca": "40 mg",
+        "cl": "0 mg",
+        "co": "0 µg",
+        "cr": "0 µg",
+        "cu": "0.4 mg",
+        "f": "0 µg",
+        "fe": "3.5 mg",
+        "i": "0 µg",
+        "k": "310 mg",
+        "li": "0 µg",
+        "mg": "90 mg",
+        "mn": "2.9 mg",
+        "mo": "0 µg",
+        "na": "360 mg",
+        "ni": "0 µg",
+        "p": "330 mg",
+        "rb": "0 µg",
+        "s": "0 mg",
+        "se": "35 µg",
+        "si": "0 mg",
+        "sr": "0 µg",
+        "v": "0 µg",
+        "zn": "2.5 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": false,
+    "isLactoseFree": true,
+    "isVegan": true,
+    "isKetogenic": false,
+    "isWholeFoods": true,
+    "isLowFodmap": false,
+    "isPaleoFriendly": false,
+    "isRaw": false
+  },
+  "allergens": [
+    "Żyto"
+  ],
+  "nutriScore": "B"
+}

@@ -1,0 +1,180 @@
+{
+  "productName": "Sos sojowy",
+  "category": "Condiments",
+  "glycemicIndex": "1",
+  "glycemicLoad": "0",
+  "caffeine": "0 mg",
+  "salt": "5.49 g",
+  "water": "70.7 g",
+  "calories": "53 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "8.14 g",
+        "animalBased": "0 g",
+        "plantBased": "8.14 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "180 mg",
+            "isoleucine": "340 mg",
+            "leucine": "570 mg",
+            "lysine": "420 mg",
+            "methionine": "90 mg",
+            "phenylalanine": "350 mg",
+            "threonine": "280 mg",
+            "tryptophan": "90 mg",
+            "valine": "360 mg"
+          },
+          "nonEssential": {
+            "alanine": "290 mg",
+            "asparagine": "0 mg",
+            "asparticAcid": "720 mg",
+            "glutamicAcid": "1300 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "330 mg",
+            "cysteine": "90 mg",
+            "glutamine": "0 mg",
+            "tyrosine": "240 mg",
+            "glycine": "280 mg",
+            "proline": "380 mg",
+            "serine": "360 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "0.08 g",
+        "saturated": {
+          "total": "0.01 g",
+          "lauricAcid": "0 g",
+          "myristicAcid": "0 g",
+          "palmiticAcid": "0.01 g",
+          "stearicAcid": "0 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "0.02 g",
+            "omega9": {
+              "total": "0.02 g",
+              "oleicAcid": "0.02 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "0.04 g",
+            "omega3": {
+              "total": "0.01 g",
+              "ala": "0.01 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "0.03 g",
+              "linoleicAcid": "0.03 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "0 mg"
+      },
+      "carbohydrates": {
+        "total": "4.93 g",
+        "simple": {
+          "total": "0.65 g",
+          "monosaccharides": {
+            "glucose": "0.32 g",
+            "fructose": "0.33 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "0 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "4.28 g",
+          "starches": "0 g",
+          "fiber": {
+            "total": "0.8 g",
+            "soluble": "0.4 g",
+            "insoluble": "0.4 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "0 µg",
+          "retinol": "0 µg",
+          "betaCarotene": "0 µg"
+        },
+        "b1": "0.02 mg",
+        "b2": "0.23 mg",
+        "b3": {
+          "total": "4.07 mg",
+          "niacin": "4.07 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "0 mg",
+        "b5": "0.25 mg",
+        "b6": "0.18 mg",
+        "b7": "0 µg",
+        "b8": "0 mg",
+        "b9": "15 µg",
+        "b12": "0 µg",
+        "c": "0 mg",
+        "d": "0 µg",
+        "e": "0 mg",
+        "k": "0 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "0 mg",
+        "ca": "20 mg",
+        "cl": "0 mg",
+        "co": "0 µg",
+        "cr": "0 µg",
+        "cu": "0.12 mg",
+        "f": "0 µg",
+        "fe": "2.38 mg",
+        "i": "0 µg",
+        "k": "217 mg",
+        "li": "0 µg",
+        "mg": "38 mg",
+        "mn": "0.31 mg",
+        "mo": "0 µg",
+        "na": "2159 mg",
+        "ni": "0 µg",
+        "p": "130 mg",
+        "rb": "0 µg",
+        "s": "0 mg",
+        "se": "0.8 µg",
+        "si": "0 mg",
+        "sr": "0 µg",
+        "v": "0 µg",
+        "zn": "0.38 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": false,
+    "isLactoseFree": true,
+    "isVegan": true,
+    "isKetogenic": true,
+    "isWholeFoods": false,
+    "isLowFodmap": false,
+    "isPaleoFriendly": false,
+    "isRaw": false
+  },
+  "allergens": [
+    "Soja",
+    "Pszenica"
+  ],
+  "nutriScore": "D"
+}

@@ -1,0 +1,179 @@
+{
+  "productName": "Płatki migdałów",
+  "category": "Nuts",
+  "glycemicIndex": "0",
+  "glycemicLoad": "0",
+  "caffeine": "0 mg",
+  "salt": "0.001 g",
+  "water": "4.41 g",
+  "calories": "598 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "21.15 g",
+        "animalBased": "0 g",
+        "plantBased": "21.15 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "551 mg",
+            "isoleucine": "745 mg",
+            "leucine": "1473 mg",
+            "lysine": "586 mg",
+            "methionine": "153 mg",
+            "phenylalanine": "1132 mg",
+            "threonine": "600 mg",
+            "tryptophan": "211 mg",
+            "valine": "859 mg"
+          },
+          "nonEssential": {
+            "alanine": "1005 mg",
+            "asparagine": "0 mg",
+            "asparticAcid": "2618 mg",
+            "glutamicAcid": "4997 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "2465 mg",
+            "cysteine": "216 mg",
+            "glutamine": "0 mg",
+            "tyrosine": "660 mg",
+            "glycine": "1266 mg",
+            "proline": "889 mg",
+            "serine": "897 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "52.54 g",
+        "saturated": {
+          "total": "4.08 g",
+          "lauricAcid": "0 g",
+          "myristicAcid": "0 g",
+          "palmiticAcid": "3.11 g",
+          "stearicAcid": "0.97 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "32.98 g",
+            "omega9": {
+              "total": "32.98 g",
+              "oleicAcid": "32.98 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "12.32 g",
+            "omega3": {
+              "total": "0.006 g",
+              "ala": "0.006 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "12.314 g",
+              "linoleicAcid": "12.314 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "0 mg"
+      },
+      "carbohydrates": {
+        "total": "19.74 g",
+        "simple": {
+          "total": "4.35 g",
+          "monosaccharides": {
+            "glucose": "2.175 g",
+            "fructose": "2.175 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "4.07 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "15.39 g",
+          "starches": "2.39 g",
+          "fiber": {
+            "total": "13 g",
+            "soluble": "3.9 g",
+            "insoluble": "9.1 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "0 µg",
+          "retinol": "0 µg",
+          "betaCarotene": "1 µg"
+        },
+        "b1": "0.211 mg",
+        "b2": "1.014 mg",
+        "b3": {
+          "total": "3.385 mg",
+          "niacin": "3.385 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "52.1 mg",
+        "b5": "0.469 mg",
+        "b6": "0.131 mg",
+        "b7": "0 µg",
+        "b8": "0 mg",
+        "b9": "50 µg",
+        "b12": "0 µg",
+        "c": "0 mg",
+        "d": "0 µg",
+        "e": "25.63 mg",
+        "k": "0 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "0 mg",
+        "ca": "269 mg",
+        "cl": "0 mg",
+        "co": "0 µg",
+        "cr": "0 µg",
+        "cu": "1.031 mg",
+        "f": "0 µg",
+        "fe": "3.71 mg",
+        "i": "0 µg",
+        "k": "733 mg",
+        "li": "0 µg",
+        "mg": "270 mg",
+        "mn": "2.179 mg",
+        "mo": "0 µg",
+        "na": "1 mg",
+        "ni": "0 µg",
+        "p": "481 mg",
+        "rb": "0 µg",
+        "s": "0 mg",
+        "se": "4.1 µg",
+        "si": "0 mg",
+        "sr": "0 µg",
+        "v": "0 µg",
+        "zn": "3.12 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": true,
+    "isLactoseFree": true,
+    "isVegan": true,
+    "isKetogenic": true,
+    "isWholeFoods": true,
+    "isLowFodmap": true,
+    "isPaleoFriendly": true,
+    "isRaw": true
+  },
+  "allergens": [
+    "Migdały"
+  ],
+  "nutriScore": "A"
+}

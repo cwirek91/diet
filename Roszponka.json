@@ -1,0 +1,177 @@
+{
+  "productName": "Roszponka",
+  "category": "Vegetables",
+  "glycemicIndex": "15",
+  "glycemicLoad": "1",
+  "caffeine": "0 mg",
+  "salt": "0.004 g",
+  "water": "92.8 g",
+  "calories": "21 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "2 g",
+        "animalBased": "0 g",
+        "plantBased": "2 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "40 mg",
+            "isoleucine": "80 mg",
+            "leucine": "140 mg",
+            "lysine": "100 mg",
+            "methionine": "30 mg",
+            "phenylalanine": "90 mg",
+            "threonine": "80 mg",
+            "tryptophan": "20 mg",
+            "valine": "100 mg"
+          },
+          "nonEssential": {
+            "alanine": "100 mg",
+            "asparagine": "180 mg",
+            "asparticAcid": "180 mg",
+            "glutamicAcid": "220 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "100 mg",
+            "cysteine": "20 mg",
+            "glutamine": "220 mg",
+            "tyrosine": "60 mg",
+            "glycine": "90 mg",
+            "proline": "80 mg",
+            "serine": "80 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "0.4 g",
+        "saturated": {
+          "total": "0.056 g",
+          "lauricAcid": "0 g",
+          "myristicAcid": "0 g",
+          "palmiticAcid": "0.042 g",
+          "stearicAcid": "0.014 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "0.024 g",
+            "omega9": {
+              "total": "0.024 g",
+              "oleicAcid": "0.024 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "0.232 g",
+            "omega3": {
+              "total": "0.198 g",
+              "ala": "0.198 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "0.034 g",
+              "linoleicAcid": "0.034 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "0 mg"
+      },
+      "carbohydrates": {
+        "total": "3.6 g",
+        "simple": {
+          "total": "0.4 g",
+          "monosaccharides": {
+            "glucose": "0.2 g",
+            "fructose": "0.2 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "0 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "3.2 g",
+          "starches": "1.2 g",
+          "fiber": {
+            "total": "2 g",
+            "soluble": "0.6 g",
+            "insoluble": "1.4 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "260 µg",
+          "retinol": "0 µg",
+          "betaCarotene": "3120 µg"
+        },
+        "b1": "0.07 mg",
+        "b2": "0.09 mg",
+        "b3": {
+          "total": "0.41 mg",
+          "niacin": "0.41 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "13.3 mg",
+        "b5": "0.263 mg",
+        "b6": "0.273 mg",
+        "b7": "0.4 µg",
+        "b8": "0 mg",
+        "b9": "14 µg",
+        "b12": "0 µg",
+        "c": "38.2 mg",
+        "d": "0 µg",
+        "e": "0.57 mg",
+        "k": "293 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "0.3 mg",
+        "ca": "38 mg",
+        "cl": "0 mg",
+        "co": "0 µg",
+        "cr": "0 µg",
+        "cu": "0.13 mg",
+        "f": "0 µg",
+        "fe": "2.18 mg",
+        "i": "0 µg",
+        "k": "459 mg",
+        "li": "0 µg",
+        "mg": "13 mg",
+        "mn": "0.419 mg",
+        "mo": "0 µg",
+        "na": "4 mg",
+        "ni": "0 µg",
+        "p": "53 mg",
+        "rb": "0 µg",
+        "s": "0 mg",
+        "se": "0.9 µg",
+        "si": "0 mg",
+        "sr": "0 µg",
+        "v": "0 µg",
+        "zn": "0.61 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": true,
+    "isLactoseFree": true,
+    "isVegan": true,
+    "isKetogenic": true,
+    "isWholeFoods": true,
+    "isLowFodmap": true,
+    "isPaleoFriendly": true,
+    "isRaw": true
+  },
+  "allergens": [],
+  "nutriScore": "A"
+}

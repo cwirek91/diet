@@ -1,0 +1,177 @@
+{
+  "productName": "Papryka słodka mielona",
+  "category": "Spices",
+  "glycemicIndex": "0",
+  "glycemicLoad": "0",
+  "caffeine": "0 mg",
+  "salt": "0.02 g",
+  "water": "11.24 g",
+  "calories": "282 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "14.14 g",
+        "animalBased": "0 g",
+        "plantBased": "14.14 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "283 mg",
+            "isoleucine": "495 mg",
+            "leucine": "873 mg",
+            "lysine": "687 mg",
+            "methionine": "231 mg",
+            "phenylalanine": "573 mg",
+            "threonine": "525 mg",
+            "tryptophan": "196 mg",
+            "valine": "628 mg"
+          },
+          "nonEssential": {
+            "alanine": "655 mg",
+            "asparagine": "1236 mg",
+            "asparticAcid": "1236 mg",
+            "glutamicAcid": "1910 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "628 mg",
+            "cysteine": "196 mg",
+            "glutamine": "1910 mg",
+            "tyrosine": "366 mg",
+            "glycine": "628 mg",
+            "proline": "573 mg",
+            "serine": "573 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "12.89 g",
+        "saturated": {
+          "total": "2.14 g",
+          "lauricAcid": "0.01 g",
+          "myristicAcid": "0.01 g",
+          "palmiticAcid": "1.39 g",
+          "stearicAcid": "0.55 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "2.69 g",
+            "omega9": {
+              "total": "2.65 g",
+              "oleicAcid": "2.65 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "6.03 g",
+            "omega3": {
+              "total": "0.24 g",
+              "ala": "0.24 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "5.79 g",
+              "linoleicAcid": "5.79 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "0 mg"
+      },
+      "carbohydrates": {
+        "total": "54.79 g",
+        "simple": {
+          "total": "10.34 g",
+          "monosaccharides": {
+            "glucose": "4.89 g",
+            "fructose": "5.45 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "0 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "44.45 g",
+          "starches": "9.55 g",
+          "fiber": {
+            "total": "34.9 g",
+            "soluble": "10.47 g",
+            "insoluble": "24.43 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "2764 µg",
+          "retinol": "0 µg",
+          "betaCarotene": "33127 µg"
+        },
+        "b1": "0.328 mg",
+        "b2": "1.848 mg",
+        "b3": {
+          "total": "15.13 mg",
+          "niacin": "15.13 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "51.5 mg",
+        "b5": "2.039 mg",
+        "b6": "2.141 mg",
+        "b7": "0 µg",
+        "b8": "0 mg",
+        "b9": "49 µg",
+        "b12": "0 µg",
+        "c": "0.7 mg",
+        "d": "0 µg",
+        "e": "29.83 mg",
+        "k": "41.9 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "1.87 mg",
+        "ca": "229 mg",
+        "cl": "0 mg",
+        "co": "0 µg",
+        "cr": "0 µg",
+        "cu": "0.728 mg",
+        "f": "0 µg",
+        "fe": "21.14 mg",
+        "i": "0 µg",
+        "k": "2280 mg",
+        "li": "0 µg",
+        "mg": "178 mg",
+        "mn": "2.994 mg",
+        "mo": "0 µg",
+        "na": "20 mg",
+        "ni": "0 µg",
+        "p": "314 mg",
+        "rb": "0 µg",
+        "s": "0 mg",
+        "se": "11 µg",
+        "si": "0 mg",
+        "sr": "0 µg",
+        "v": "0 µg",
+        "zn": "3.13 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": true,
+    "isLactoseFree": true,
+    "isVegan": true,
+    "isKetogenic": false,
+    "isWholeFoods": true,
+    "isLowFodmap": true,
+    "isPaleoFriendly": true,
+    "isRaw": false
+  },
+  "allergens": [],
+  "nutriScore": "A"
+}

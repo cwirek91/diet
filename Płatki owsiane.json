@@ -1,0 +1,179 @@
+{
+  "productName": "Płatki owsiane",
+  "category": "Cereals",
+  "glycemicIndex": "55",
+  "glycemicLoad": "9",
+  "caffeine": "0 mg",
+  "salt": "0.002 g",
+  "water": "8.22 g",
+  "calories": "389 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "16.89 g",
+        "animalBased": "0 g",
+        "plantBased": "16.89 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "405 mg",
+            "isoleucine": "694 mg",
+            "leucine": "1284 mg",
+            "lysine": "701 mg",
+            "methionine": "312 mg",
+            "phenylalanine": "895 mg",
+            "threonine": "575 mg",
+            "tryptophan": "234 mg",
+            "valine": "937 mg"
+          },
+          "nonEssential": {
+            "alanine": "873 mg",
+            "asparagine": "0 mg",
+            "asparticAcid": "1448 mg",
+            "glutamicAcid": "3712 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "1192 mg",
+            "cysteine": "408 mg",
+            "glutamine": "0 mg",
+            "tyrosine": "681 mg",
+            "glycine": "841 mg",
+            "proline": "914 mg",
+            "serine": "893 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "6.9 g",
+        "saturated": {
+          "total": "1.217 g",
+          "lauricAcid": "0 g",
+          "myristicAcid": "0.015 g",
+          "palmiticAcid": "0.961 g",
+          "stearicAcid": "0.092 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "2.178 g",
+            "omega9": {
+              "total": "2.154 g",
+              "oleicAcid": "2.154 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "2.535 g",
+            "omega3": {
+              "total": "0.111 g",
+              "ala": "0.111 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "2.424 g",
+              "linoleicAcid": "2.424 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "0 mg"
+      },
+      "carbohydrates": {
+        "total": "66.27 g",
+        "simple": {
+          "total": "0.99 g",
+          "monosaccharides": {
+            "glucose": "0.495 g",
+            "fructose": "0.495 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "0.84 g",
+            "lactose": "0 g",
+            "maltose": "1.69 g"
+          }
+        },
+        "complex": {
+          "total": "65.28 g",
+          "starches": "55.08 g",
+          "fiber": {
+            "total": "10.6 g",
+            "soluble": "4.24 g",
+            "insoluble": "6.36 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "0 µg",
+          "retinol": "0 µg",
+          "betaCarotene": "0 µg"
+        },
+        "b1": "0.763 mg",
+        "b2": "0.139 mg",
+        "b3": {
+          "total": "0.961 mg",
+          "niacin": "0.961 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "44.9 mg",
+        "b5": "1.349 mg",
+        "b6": "0.119 mg",
+        "b7": "29.7 µg",
+        "b8": "0 mg",
+        "b9": "56 µg",
+        "b12": "0 µg",
+        "c": "0 mg",
+        "d": "0 µg",
+        "e": "0.7 mg",
+        "k": "3.2 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "0 mg",
+        "ca": "54 mg",
+        "cl": "0 mg",
+        "co": "0 µg",
+        "cr": "0 µg",
+        "cu": "0.626 mg",
+        "f": "0 µg",
+        "fe": "4.72 mg",
+        "i": "0 µg",
+        "k": "429 mg",
+        "li": "0 µg",
+        "mg": "177 mg",
+        "mn": "4.916 mg",
+        "mo": "0 µg",
+        "na": "2 mg",
+        "ni": "0 µg",
+        "p": "523 mg",
+        "rb": "0 µg",
+        "s": "0 mg",
+        "se": "34 µg",
+        "si": "0 mg",
+        "sr": "0 µg",
+        "v": "0 µg",
+        "zn": "3.97 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": false,
+    "isLactoseFree": true,
+    "isVegan": true,
+    "isKetogenic": false,
+    "isWholeFoods": true,
+    "isLowFodmap": true,
+    "isPaleoFriendly": false,
+    "isRaw": false
+  },
+  "allergens": [
+    "Owies"
+  ],
+  "nutriScore": "A"
+}

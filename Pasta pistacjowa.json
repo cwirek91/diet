@@ -1,0 +1,179 @@
+{
+  "productName": "Pasta pistacjowa",
+  "category": "Spreads",
+  "glycemicIndex": "15",
+  "glycemicLoad": "3",
+  "caffeine": "0 mg",
+  "salt": "0.002 g",
+  "water": "2.1 g",
+  "calories": "576 kcal",
+  "servingSize": "100 g",
+  "nutrients": {
+    "macronutrients": {
+      "proteins": {
+        "total": "20.65 g",
+        "animalBased": "0 g",
+        "plantBased": "20.65 g",
+        "aminoAcids": {
+          "essential": {
+            "histidine": "524 mg",
+            "isoleucine": "920 mg",
+            "leucine": "1657 mg",
+            "lysine": "1166 mg",
+            "methionine": "340 mg",
+            "phenylalanine": "1117 mg",
+            "threonine": "705 mg",
+            "tryptophan": "276 mg",
+            "valine": "1229 mg"
+          },
+          "nonEssential": {
+            "alanine": "994 mg",
+            "asparagine": "0 mg",
+            "asparticAcid": "2192 mg",
+            "glutamicAcid": "4363 mg"
+          },
+          "conditionallyEssential": {
+            "arginine": "2182 mg",
+            "cysteine": "295 mg",
+            "glutamine": "0 mg",
+            "tyrosine": "522 mg",
+            "glycine": "1035 mg",
+            "proline": "953 mg",
+            "serine": "1117 mg"
+          }
+        }
+      },
+      "fats": {
+        "total": "46.41 g",
+        "saturated": {
+          "total": "6.05 g",
+          "lauricAcid": "0.02 g",
+          "myristicAcid": "0.02 g",
+          "palmiticAcid": "5.23 g",
+          "stearicAcid": "0.78 g"
+        },
+        "unsaturated": {
+          "monounsaturated": {
+            "total": "23.82 g",
+            "omega9": {
+              "total": "23.15 g",
+              "oleicAcid": "23.15 g",
+              "erucicAcid": "0 g"
+            }
+          },
+          "polyunsaturated": {
+            "total": "14.73 g",
+            "omega3": {
+              "total": "0.27 g",
+              "ala": "0.27 g",
+              "epa": "0 g",
+              "dha": "0 g"
+            },
+            "omega6": {
+              "total": "13.98 g",
+              "linoleicAcid": "13.98 g",
+              "arachidonicAcid": "0 g"
+            }
+          }
+        },
+        "trans": "0 g",
+        "cholesterol": "0 mg"
+      },
+      "carbohydrates": {
+        "total": "27.82 g",
+        "simple": {
+          "total": "7.85 g",
+          "monosaccharides": {
+            "glucose": "0.2 g",
+            "fructose": "0.16 g",
+            "galactose": "0 g"
+          },
+          "disaccharides": {
+            "sucrose": "7.49 g",
+            "lactose": "0 g",
+            "maltose": "0 g"
+          }
+        },
+        "complex": {
+          "total": "19.97 g",
+          "starches": "9.12 g",
+          "fiber": {
+            "total": "10.85 g",
+            "soluble": "1.1 g",
+            "insoluble": "9.75 g"
+          },
+          "glycogen": "0 g"
+        }
+      }
+    },
+    "micronutrients": {
+      "vitamins": {
+        "a": {
+          "total": "27 µg",
+          "retinol": "0 µg",
+          "betaCarotene": "312 µg"
+        },
+        "b1": "0.89 mg",
+        "b2": "0.16 mg",
+        "b3": {
+          "total": "1.33 mg",
+          "niacin": "1.33 mg",
+          "niacinamide": "0 mg"
+        },
+        "b4": "73.1 mg",
+        "b5": "0.53 mg",
+        "b6": "1.74 mg",
+        "b7": "0 µg",
+        "b8": "0 mg",
+        "b9": "52 µg",
+        "b12": "0 µg",
+        "c": "5.7 mg",
+        "d": "0 µg",
+        "e": "2.93 mg",
+        "k": "13.5 µg"
+      },
+      "minerals": {
+        "as": "0 µg",
+        "b": "0.4 mg",
+        "ca": "108 mg",
+        "cl": "0 mg",
+        "co": "0 µg",
+        "cr": "0 µg",
+        "cu": "1.33 mg",
+        "f": "0 µg",
+        "fe": "4.01 mg",
+        "i": "0 µg",
+        "k": "1050 mg",
+        "li": "0 µg",
+        "mg": "124 mg",
+        "mn": "1.23 mg",
+        "mo": "0 µg",
+        "na": "1 mg",
+        "ni": "0 µg",
+        "p": "502 mg",
+        "rb": "0 µg",
+        "s": "207 mg",
+        "se": "7.2 µg",
+        "si": "0 mg",
+        "sr": "0 µg",
+        "v": "0 µg",
+        "zn": "2.25 mg"
+      }
+    }
+  },
+  "dietaryConsiderations": {
+    "isVegetarian": true,
+    "isGlutenFree": true,
+    "isLactoseFree": true,
+    "isVegan": true,
+    "isKetogenic": true,
+    "isWholeFoods": true,
+    "isLowFodmap": false,
+    "isPaleoFriendly": true,
+    "isRaw": true
+  },
+  "allergens": [
+    "Orzechy"
+  ],
+  "nutriScore": "C"
+}
