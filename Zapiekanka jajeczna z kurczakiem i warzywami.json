@@ -1,0 +1,45 @@
+{
+  "recipeName": "Zapiekanka jajeczna z kurczakiem i warzywami",
+  "subRecipes": [
+    {
+      "name": "Zapiekanka jajeczna z kurczakiem i warzywami",
+      "description": "Mięso pokroić w kostkę, doprawić i lekko podsmażyć na patelni. Warzywa pokroić w kawałki i wymieszać wszystko w misce z rozmieszanymi widelcem jajkami i kawałkami piersi kurczaka. Masę wlać do posmarowanej oliwą foremki i posypać parmezanem. Piec przez około 20 minut w piekarniku w 180 stopniach.",
+      "ingredients": [
+        {
+          "name": "Brokuł",
+          "amount": "50 g"
+        },
+        {
+          "name": "Cukinia",
+          "amount": "150 g"
+        },
+        {
+          "name": "Jajko kurze",
+          "amount": "2 szt."
+        },
+        {
+          "name": "Oliwa z oliwek",
+          "brand": "Catapano",
+          "amount": "10 g"
+        },
+        {
+          "name": "Papryka czerwona",
+          "amount": "70 g"
+        },
+        {
+          "name": "Polędwiczki z kurczaka",
+          "amount": "100 g"
+        },
+        {
+          "name": "Parmezan",
+          "amount": "20 g"
+        },
+        {
+          "name": "Szpinak",
+          "brand": "Ryneczek Lidla",
+          "amount": "25 g"
+        }
+      ]
+    }
+  ]
+}
